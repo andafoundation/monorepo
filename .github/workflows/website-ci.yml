@@ -1,7 +1,9 @@
 name: Website CI
 
-# Checks the site on pull requests and on main. The job uses no secret, so a pull request
-# from a fork runs it as well. Public actions are pinned by full commit SHA.
+# Checks the site on pull requests and on main, and deploys the Worker from main. The check
+# job uses no secret, so a pull request from a fork runs it as well. Only a push to main reaches
+# the deploy job and the production environment, which is also limited to main, so code from a
+# pull request never sees the Cloudflare token. Public actions are pinned by full commit SHA.
 
 on:
   workflow_dispatch:
@@ -16,10 +18,11 @@ on:
       - 'projects/website/**'
       - '.github/workflows/website-ci.yml'
 
-# Test-only: nothing is deployed here, so a superseded run can be cancelled on any branch.
+# A deploy must never be cancelled halfway, and a pending main run must not be dropped in favour
+# of a newer one: every main run gets its own group. Superseded runs on other refs are cancelled.
 concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
+  group: ${{ github.workflow }}-${{ github.ref }}-${{ github.ref_name == 'main' && github.sha || 'branch' }}
+  cancel-in-progress: ${{ github.ref_name != 'main' }}
 
 permissions:
   contents: read
@@ -76,3 +79,48 @@ jobs:
 
       - name: Build
         run: bun run build
+
+  deploy:
+    needs: check
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment: production
+    defaults:
+      run:
+        working-directory: projects/website
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: '22'
+
+      - name: Set up Bun
+        uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6 # v2.2.0
+        with:
+          bun-version: '1.4.3'
+
+      # The check job saves this entry on main; the deploy job only reads it.
+      - name: Restore Bun dependencies
+        uses: actions/cache/restore@caa296126883cff596d87d8935842f9db880ef25 # v5.1.0
+        with:
+          path: ~/.bun/install/cache
+          key: ${{ runner.os }}-buninstall-projects/website-${{ hashFiles('projects/website/bun.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-buninstall-projects/website-
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
+      # OpenNext build, then wrangler deploy of the Worker named in wrangler.jsonc. Wrangler reads
+      # the account and the token from these variables; wrangler.jsonc holds no account id.
+      - name: Build and deploy the Worker
+        run: bun run cf:deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
