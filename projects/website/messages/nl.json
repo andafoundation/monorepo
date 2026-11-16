@@ -1,0 +1,651 @@
+{
+  "nav": {
+    "home": "Home",
+    "message": "Boodschap",
+    "pillars": "Pilaren",
+    "oath": "Eed",
+    "ands": "Ands",
+    "poems": "Gedichten",
+    "depth": "Diepte",
+    "book": "Boeken",
+    "statutes": "Statuten",
+    "annualReports": "Jaarstukken",
+    "bankStatements": "Bankafschriften",
+    "openness": "Openheid",
+    "skyyurt": "Skyhaven",
+    "contact": "Contact",
+    "connect": "Connect",
+    "menuLabel": "Hoofdnavigatie",
+    "openMenu": "Menu openen",
+    "closeMenu": "Menu sluiten",
+    "groups": {
+      "leer": "Leer",
+      "teksten": "Teksten",
+      "stichting": "Stichting"
+    },
+    "descriptions": {
+      "message": "De kern in enkele zinnen",
+      "pillars": "De zes pilaren van het pad",
+      "oath": "De belofte die het pad bezegelt",
+      "depth": "Het volledige naslagartikel",
+      "ands": "Eden in steen gehouwen",
+      "poems": "Gedichten en wijsheden",
+      "book": "Kernliteratuur en verhalen",
+      "statutes": "De statuten van Stichting Anda",
+      "annualReports": "Jaarrekening en beleidsplan",
+      "bankStatements": "Elke transactie zichtbaar",
+      "openness": "Waarom wij alles openbaar maken"
+    }
+  },
+  "home": {
+    "metaTitle": "De Filosofie van de Eindeloze Hemel",
+    "metaDescription": "Stichting Anda in Delft deelt de Filosofie van de Eindeloze Hemel: zes pilaren, een eed, korte gedichten en een gratis boek over eerlijkheid en de natuur.",
+    "hero": {
+      "title": "Stichting Anda",
+      "subtitle": "De Filosofie van de Eindeloze Hemel",
+      "description": "Een pad geleid door eden, eer, vastberadenheid en de moed om opnieuw te beginnen.",
+      "cta": "Ontdek de boodschap"
+    },
+    "about": {
+      "title": "Wat is Anda?",
+      "paragraph1": "Anda is een levensfilosofie die zijn oorsprong vindt in de eeuwenoude tradities van de steppe. Het woord \"anda\" betekent \"eed\" of \"verbond\" en stond symbool voor diepe trouw, vaak sterker dan bloedverwantschap. In de moderne tijd geeft Anda een nieuw perspectief: een verbond met jezelf, een innerlijke belofte om te leven met moed, onzekerheid, compassie en eerbied voor de natuur.",
+      "paragraph2": "Stichting Anda heeft als doel deze filosofie uit te dragen en concreet te maken. Niet als dogma, maar als uitnodiging tot dialoog, reflectie en gemeenschapsvorming. We bouwen bruggen tussen traditie en moderniteit, tussen spiritualiteit en wetenschap, tussen natuur en mens.",
+      "cta": "Lees de Zes Pilaren",
+      "imageAlt": "Het yurtmerk van Anda"
+    },
+    "pillars": {
+      "title": "De Zes Pilaren van Anda",
+      "intro": "De kern van de Anda-filosofie rust op zes pilaren. Samen vormen zij een kompas voor een eerlijk, moedig en verbonden leven.",
+      "cta": "Verdiep je in de Pilaren",
+      "pillar1": {
+        "title": "Nomadisme",
+        "description": "Altijd in beweging, fysiek en mentaal. Een nomade blijft leren, ontdekken en vernieuwen."
+      },
+      "pillar2": {
+        "title": "Een Rechte Rug",
+        "description": "Eerlijkheid, moed en sportiviteit als leidraad, geïnspireerd door de discipline van de samoerai."
+      },
+      "pillar3": {
+        "title": "Oneindigheid",
+        "description": "De Eindeloze Hemel als symbool voor verbondenheid en spiritualiteit."
+      },
+      "pillar4": {
+        "title": "Onzekerheid",
+        "description": "Erkenning dat er geen absolute waarheden bestaan. Het leren leven met onze eigen onzekerheden en de bredere onzekerheid."
+      },
+      "pillar5": {
+        "title": "Eerbied voor de Natuur",
+        "description": "De natuur als heiligdom en spiegel van ons innerlijk leven. Eerbied brengt verbinding."
+      },
+      "pillar6": {
+        "title": "Intentie",
+        "description": "Onvolkomenheden maken ons uniek. Net als scheuren in een vaas, gerepareerd met goud, zijn littekens onderdeel van schoonheid. Niemand kan het ideale menselijke wezen zijn, het gaat om de intentie."
+      }
+    },
+    "sky": {
+      "title": "Onder de Eindeloze Hemel",
+      "quote": "We zijn niet superieur, niet inferieur. We zijn wie we zijn. Één met de Eindeloze Hemel.",
+      "description": "Anda nodigt je uit om onzekerheid te erkennen, de natuur te eren, en imperfecties te omarmen als deel van wie je bent. De Eindeloze Hemel is een metafoor voor oneindigheid, voor diversiteit en verbondenheid.",
+      "cta": "Lees de Eed"
+    },
+    "skyyurt": {
+      "title": "Skyyurts & Skystones",
+      "paragraph1": "De Skyyurt is een ruimte van stilte en verbondenheid, geïnspireerd door de simplistische levenswijze van de steppevolkeren. Hier komen mensen samen voor meditatie, dialoog en het drinken van een kop warme thee. Tussen talloze warme tapijten.",
+      "paragraph2": "Skystones zijn stenen zuilen met inscripties die herinneren aan universele waarden zoals moed, compassie, eerlijkheid en eerbied voor de natuur. Samen vormen zij fysieke symbolen van de Anda-filosofie.",
+      "cta": "Ontdek meer"
+    },
+    "mission": {
+      "title": "Missie & Visie",
+      "paragraph1": "Stichting Anda wil gemeenschappen bouwen die gegrond zijn in eer, eerlijkheid, compassie en wederzijdse steun. Via de Ands moedigen wij mensen aan om met een doel te leven, verantwoordelijkheid te nemen en trouw te blijven aan hun eden, ook na falen.",
+      "paragraph2": "Onze visie is een gelijkwaardigere wereld waarin mensen leven met eer, onzekerheid omarmen, de natuur eerbiedigen en achter hun eden staan. Een wereld waarin wij elkaar steunen, leren van ons falen en blijven doorgaan."
+    },
+    "downloadCta": {
+      "title": "Download de volledige PDF",
+      "description": "Wil je de Anda-filosofie in zijn geheel lezen? Download hier het volledige document inclusief boodschap, pilaren en statuten.",
+      "cta": "Download PDF"
+    },
+    "contactCta": {
+      "title": "Neem contact op",
+      "description": "Heeft u vragen, wilt u samenwerken of meer weten over onze activiteiten? Neem gerust contact met ons op via",
+      "cta": "Verbind"
+    }
+  },
+  "footer": {
+    "foundationName": "Stichting Anda",
+    "shortMission": "Een stichting zonder winstoogmerk, gericht op dialoog, reflectie en eerbied voor de natuur onder de Eindeloze Hemel.",
+    "anbiLine": "ANBI-status – stichting zonder winstoogmerk",
+    "contactTitle": "Contact & Gegevens",
+    "address": {
+      "line1": "Rotterdamsweg 183C",
+      "line2": "2629 HD Delft",
+      "line3": "Zuid-Holland, Nederland"
+    },
+    "emailLabel": "E-mail",
+    "email": "info@andaphilosophy.com",
+    "phoneLabel": "Telefoon",
+    "phone": "+31 (0)15 – 123 4567",
+    "kvk": "91234567",
+    "rsin": "876543210",
+    "iban": "NL12BANK3456789012",
+    "bic": "BANKNL2A",
+    "privacy": "Privacy",
+    "cookies": "Cookies",
+    "disclaimer": "Disclaimer",
+    "copyright": "© Stichting Anda"
+  },
+  "common": {
+    "readMore": "Lees meer",
+    "readLess": "Lees minder",
+    "downloadPdf": "Download (PDF)"
+  },
+  "boodschap": {
+    "metaTitle": "Boodschap van de Anda",
+    "metaDescription": "De boodschap van de Anda: een verbond niet met een ander, maar met jezelf. Stichting Anda vertelt over de steppetraditie achter de eed.",
+    "title": "Boodschap van de Anda",
+    "paragraph1": "Op de eeuwenoude steppe bestaat er een traditie. Deze traditie heet \"anda\".",
+    "paragraph2": "Het woord \"and\" betekent eed of gelofte in de talen van de steppevolkeren. Van dit woord is \"anda\" afgeleid: een verbond tussen twee personen die elkaar zo diep vertrouwden dat zij zwoeren elkaar als broeder of zuster te beschouwen. Zulke verbonden werden slechts één keer in een leven gesmeed en bleven voor altijd geldig. Vaak werden zij met bloed bezegeld. Beide personen sneden met het lemmet van hun zwaard in hun handpalm en zwoeren elkaar trouw.",
+    "paragraph3": "Deze filosofie, de Anda, is óók een verbond.",
+    "paragraph4": "Maar niet een verbond met een ander.",
+    "paragraph5": "Maar een verbond met jezelf.",
+    "paragraph6": "Een set van principes die niet per se de absolute waarheid zijn – want onderdeel van deze filosofie is juist de erkenning van onzekerheid – maar een verzameling van overtuigingen waarvan je, ergens diep in je hart, voelt dat zij juist zijn en waarvoor jij wilt leven.",
+    "paragraph7": "En wellicht, ooit, zult willen zweren."
+  },
+  "eed": {
+    "metaTitle": "De And, de Eed",
+    "metaDescription": "De And is de eed van Stichting Anda: beloften om als nomade te leven, met een rechte rug, één met de oneindigheid en met eerbied voor de natuur.",
+    "title": "De And – De Eed",
+    "oath1": "Ik zweer dat ik een nomade zal zijn, mijn hart open voor iedereen.",
+    "oath2": "Ik zweer dat ik zal leven met mijn ogen gericht op de Eindeloze Hemel, schouders recht, eervol, met een gezond lichaam en een heldere geest.",
+    "oath3": "Ik zweer dat ik één zal worden met de Oneindigheid.",
+    "oath4": "Ik zweer dat ik zal leren leven met onzekerheid.",
+    "oath5": "Ik zweer dat ik eerbied zal hebben voor de natuur en dat ik de wereld groener zal achterlaten.",
+    "oath6": "Ik zweer dat ik mijn kreukels en barsten niet zal verbergen, omdat dit mij niet minder, maar alleen maar meer maakt.",
+    "oathFinal": "Ik zweer het, ik zweer, ik zweer het."
+  },
+  "pilaren": {
+    "metaTitle": "De Zes Pilaren van de Anda",
+    "metaDescription": "Nomadisme, een rechte rug, oneindigheid, onzekerheid, eerbied voor de natuur en intentie: de zes pilaren van Stichting Anda, elk volledig uitgelegd.",
+    "pageTitle": "De Zes Pilaren van de Anda",
+    "pillar1": {
+      "title": "Pilaar 1: Nomadisme",
+      "short": "Niet iedereen die zwerft, is verloren. Niet iedereen die meerdere paden bewandelt, is de weg kwijt.",
+      "full": "Niet iedereen die zwerft, is verloren.\nNiet iedereen die meerdere paden bewandelt, is de weg kwijt.\nNiet iedereen die zich verplaatst in een ander, is zichzelf aan het verliezen.\nEen leider van de Anda is een nomade, zowel in levensstijl als in gedachtegoed.\nEen nomade is iemand die zijn hart opent voor verschillende culturen, gebruiken, landen en personen.\nEen nomade is iemand die niet stilstaat, maar continu blijft innoveren en zichzelf blijft uitdagen.\nEen nomade is iemand die kan leven van een stuk brood, maar ook kan genieten van een bord met heerlijke gerechten.\nEen nomade is iemand wiens hart sneller gaat kloppen bij het verkennen van nieuwe plaatsen.\nEen nomade is iemand die volledig in het nu kan zijn, ook al weet diegene dat dit erg moeilijk is.\nWij, als leiders van de Anda, zijn nomaden.\nAls wij te lang op een plaats blijven, gaan onze voeten kriebelen.\nDan wordt er van ons gevraagd om een nieuwe weg voor onszelf te kerven.\nWij zijn één met de Eindeloze Hemel. En overal waar de Eindeloze Hemel is, daar zijn wij."
+    },
+    "pillar2": {
+      "title": "Pilaar 2: Een Rechte Rug",
+      "short": "Eerlijkheid. Je schouders recht en je borst vooruit. Ogen op de Eindeloze Hemel.",
+      "full": "Eerlijkheid.\nJe schouders recht en je borst vooruit.\nOgen op de Eindeloze Hemel.\nDat is de mantra van een leider of een leidster van de Anda.\nIemand die zijn onzekerheden en tekortkomingen erkent.\nIemand die vrede met zichzelf probeert te vinden.\nIemand die niet anderen helpt om zichzelf goed te voelen, maar om samen sterker te zijn.\nIemand die zijn familie, buren, zelfs de personen waar hij een hekel aan heeft, een helpende hand durft toe te steken.\nIemand die een goed persoon probeert te zijn, koste wat het kost, ondanks zijn verleden en zijn zonden.\nDeze pilaar is geïnspireerd op de filosofie van de samoerai. Zij hielden hun eer als hoogste vaandel, hun trots, en waren zelfs bereid om voor deze filosofie harakiri (zelfmoord) te plegen.\nLaat dit volledig duidelijk zijn: de Anda keurt de harakiri van Bushido absoluut en resoluut af. Wij nemen echter de overige, positieve onderdelen van Bushido als inspiratie. Vandaar draagt deze pilaar de naam \"Positieve Bushido\".\nDit zijn de volgende waarden:\n\n1. Moed\n2. Eer\n3. Sportiviteit\n4. Eerlijkheid\n5. Een gezond lichaam en een sterke geest"
+    },
+    "pillar3": {
+      "title": "Pilaar 3: Oneindigheid",
+      "short": "De aarde is niet de enige planeet. Er zijn er miljarden.",
+      "full": "De aarde is niet de enige planeet.\nEr zijn er miljarden.\nDe Eindeloze Hemel wordt door leiders van de Anda niet gezien als een God of persoon, maar als een energie: een oneindigheid van gedachten, planeten, ideeën, mensen en natuur.\nOp momenten van stress en negativiteit proberen wij niet deze gedachten op afstand te houden, maar deze gedachten te erkennen, belichten, begrijpen – één te worden.\nWanneer wij muziek maken, zingen, worden wij één met de personen die je haat, verafschuwt – worden wij één met liefde, vrede en de oneindigheid.\nNet zoals een hand meerdere vingers kent, gelooft een leider van de Anda dat personen deze Oneindigheid, deze Eindeloze Hemel, op meerdere manieren kunnen bereiken.\nDit kan door in een God of Goden te geloven, met verschillende religies, ideeën, filosofieën, of juist helemaal niet in een God te geloven.\nWij, als leiders van de Anda, zijn niet superieur, maar wij zijn ook niet inferieur.\nWij zijn wie wij zijn,\nEén met de Eindeloze Hemel.\nEén met personen van verschillende komaf, bloed, kleur of afkomst.\nOns hart staat open voor iedereen die ook zijn eigen hart opent."
+    },
+    "pillar4": {
+      "title": "Pilaar 4: Onzekerheid",
+      "short": "Deze wereld, onze levens, kunnen een simulatie zijn in het spel van een God.",
+      "full": "Onze gedachten kunnen deel zijn van een droom. De planeten, de sterren en het universum kunnen een illusie zijn. Alles wat wij over het bestaan begrijpen kan onvolledig zijn, onjuist, of totaal anders dan wij ons voorstellen. Zelfs de oorsprong van het bestaan kan buiten alles liggen wat de menselijke geest kan bevatten.\n\nMengü, de Eindeloze Hemel, staat voor de oneindigheid voorbij ons begrip. Toch erkent het Andaïsme dat zelfs Mengü misschien niet bestaat zoals wij ons voorstellen. De Eindeloze Hemel kan een illusie zijn, een menselijk verzinsel, een gedeelde fantasie, of iets totaal anders dan wij geloven. Zelfs het heilige middelpunt van het Andaïsme is niet vrij van onzekerheid.\n\nEen Anda kan ervoor kiezen in Mengü te geloven, maar mag dat geloof nooit verwarren met absolute kennis. Geen enkele religie, filosofie of ideologie kan elke mogelijkheid van onzekerheid over de uiteindelijke aard van het bestaan definitief uitsluiten.\n\nDit is een van de centrale leringen van het Andaïsme: wij volgen Mengü niet omdat wij met zekerheid weten dat Mengü echt is. Wij volgen Mengü omdat de Eindeloze Hemel ons een manier geeft om het onbekende te benaderen, betekenis te vinden in het bestaan en er vrediger in te leven.\n\nAnds is het pad dat wij kiezen onder die onzekerheid. Door onze eden streven wij ernaar dichter bij Mengü te komen en eindeloos te worden, niet door elk antwoord te ontdekken, maar door te leren leven zonder ze allemaal nodig te hebben.\n\nHet erkennen van onzekerheid maakt ons niet zwakker. En het maakt ons ook niet per se sterker. Wij zien haar gewoon voor wat zij is, zonder schaamte, zonder angst en zonder de behoefte om geloof te vermommen als kennis.\n\nZelfs als Mengü niets meer zou zijn dan een menselijke droom, blijft het leven dat wij onder die droom leiden echt voor ons. En dat leven is het waard om ten volle geleefd te worden."
+    },
+    "pillar5": {
+      "title": "Pilaar 5: Eerbied voor de Natuur",
+      "short": "Een boom aanraken en je ogen sluiten, dat is toch raar? Niet voor een leider van de Anda.",
+      "full": "Wij zijn onderdeel van de natuur, en de natuur is onderdeel van ons.\nWandelen in de natuur doe je bij voorkeur alleen.\nWeinig geluid, weinig afleiding.\nAlleen jij, de natuur en de Eindeloze Hemel.\nDe natuur zal geen genezer zijn van al je problemen en woekerende gedachten.\nDat is ook iets wat iemand van de Anda leert te erkennen.\nDe natuur is als een heiligdom. Soms vind je er niet de troost die je zoekt, en soms confronteert het je juist met de gedachten waaraan je probeerde te ontsnappen, maar ook dat behoort tot haar heilige wijsheid, en het blijft altijd een plek om naar terug te keren. Daar kun je je gedachten en je ziel de vrije loop laten en leer je jezelf beter kennen.\nEen leider of leidster van de Anda plant graag bomen, onderhoudt zijn of haar tuin, verspreidt voortdurend zaden van planten en bomen, leert over de natuur en onderzoekt manieren om in het wild te overleven.\nWant wij zijn één."
+    },
+    "pillar6": {
+      "title": "Pilaar 6: Intentie",
+      "short": "Onvolkomenheden maken ons uniek. Net als scheuren in een vaas, gerepareerd met goud, zijn littekens onderdeel van schoonheid. Niemand kan het ideale menselijke wezen zijn, het gaat om de intentie.",
+      "full": "Deze laatste pilaar is gebaseerd op de principes van Kintsugi. De leiders van de Anda begrijpen dat imperfectie onderdeel is van het leven.\nEen leider van de Anda streeft niet naar perfectie, maar begrijpt dat perfectie alleen in utopieën en verhalen bestaat. Een leider van de Anda zal nooit een nirvana bereiken door deze pilaren te volgen. Integendeel, vaak zal hij ook moeite hebben met het uitvoeren van bepaalde pilaren of zal hij bepaalde principes kunnen vergeten.\nSoms laat hij zich afleiden door andere zaken – verleidingen of verlangens – dingen waarvoor hij eigenlijk niet staat.\nWij begrijpen echter als leiders van de Anda dat dit onderdeel is van de imperfectie.\nNet zoals een pukkel of een handicap iemand niet lelijk maakt – leren wij te kijken onder de lagen, te glimlachen – dieper de ziel in.\nWij steken een hand uit naar mensen, ongeacht welk beroep zij uitoefenen, om hen beter te begrijpen en samen een pad te volgen.\nSoortgelijke principes leert Kintsugi ons. Het is een eeuwenoude kunstvorm waarin imperfecties juist worden gevierd: de barsten in een vaas worden gezien als een onderdeel van de geschiedenis van het object, in plaats van iets dat verborgen moet worden."
+    }
+  },
+  "statuten": {
+    "metaTitle": "Statuten",
+    "metaDescription": "De statuten van Stichting Anda: naam en zetel, doel, middelen, vermogen, bestuur, jaarrekening, beleidsplan en ontbinding van de stichting.",
+    "pageTitle": "Statuten van Stichting Anda",
+    "subtitle": "De Filosofie van de Eindeloze Hemel",
+    "transparency": {
+      "title": "Transparantie & Jaarstukken",
+      "paragraph1": "Stichting Anda staat voor eerlijkheid, helderheid en vertrouwen. Net als de Bushidokrijger die zijn eer bewaakt, publiceren wij ieder jaar onze jaarrekening, beleidsplan, afschriften én banktransacties.",
+      "paragraph2": "Wij geloven dat alleen volledige openheid een duurzame en spirituele gemeenschap mogelijk maakt. Zo weet iedereen altijd hoe onze middelen worden besteed, in dienst van onze missie en van de Eindeloze Hemel."
+    },
+    "article1": {
+      "title": "Artikel 1 – Naam en zetel",
+      "content": "De stichting draagt de naam: Stichting Anda – De Filosofie van de Eindeloze Hemel. Zij kan tevens onder de verkorte naam Stichting Anda naar buiten treden. De stichting heeft haar zetel in de gemeente Delft, Nederland."
+    },
+    "article2": {
+      "title": "Artikel 2 – Doel",
+      "intro": "De stichting heeft ten doel:",
+      "goals": [
+        "Het bevorderen van filosofisch, spiritueel, cultureel en maatschappelijk onderzoek en dialoog, geïnspireerd door Anda.",
+        "Het stimuleren van reflectie over de relatie tussen mens, natuur en kosmos.",
+        "Het bijdragen aan gemeenschappen waarin eerlijkheid, compassie en verbondenheid centraal staan.",
+        "Het bevorderen van begrip voor spirituele en filosofische diversiteit."
+      ],
+      "conclusion": "De stichting werkt zonder winstoogmerk en voldoet aan de vereisten voor ANBI-status."
+    },
+    "article3": {
+      "title": "Artikel 3 – Middelen",
+      "intro": "De stichting tracht haar doel te verwezenlijken door onder meer:",
+      "means": [
+        "Het organiseren van lezingen, conferenties, retraites en dialogen.",
+        "Het publiceren van boeken, essays, podcasts en kunstuitingen.",
+        "Het realiseren en beheren van Skyyurts en Skystones.",
+        "Het aangaan van samenwerkingen met onderwijsinstellingen en maatschappelijke organisaties.",
+        "Het werven van fondsen, schenkingen, legaten en subsidies."
+      ]
+    },
+    "article4": {
+      "title": "Artikel 4 – Vermogen",
+      "content": "Het vermogen van de stichting wordt gevormd door subsidies, schenkingen, giften, erfstellingen, legaten en opbrengsten van activiteiten. Alle middelen worden uitsluitend gebruikt voor de doelstellingen. Bestuurders ontvangen geen beloning, slechts vacatiegeld en onkostenvergoeding."
+    },
+    "article5": {
+      "title": "Artikel 5 – Bestuur",
+      "content": "Het bestuur bestaat uit minimaal één persoon. Functies kunnen worden verdeeld (voorzitter, secretaris, penningmeester). Benoemingen zijn voor vier jaar en herbenoembaar. Het bestuur bewaakt de doelstelling en inspiratie van de stichting."
+    },
+    "article6": {
+      "title": "Artikel 6 – Vertegenwoordiging",
+      "content": "De stichting wordt vertegenwoordigd door het bestuur gezamenlijk. Voor rechtshandelingen boven €25.000 is goedkeuring van het voltallige bestuur vereist."
+    },
+    "article7": {
+      "title": "Artikel 7 – Vergaderingen en besluitvorming",
+      "content": "Het bestuur vergadert minimaal twee keer per jaar. Van elke vergadering wordt een verslag gemaakt. Besluiten worden genomen bij meerderheid van stemmen."
+    },
+    "article8": {
+      "title": "Artikel 8 – Jaarstukken en transparantie",
+      "paragraph1": "Het boekjaar valt samen met het kalenderjaar. Binnen zes maanden stelt het bestuur de jaarrekening vast en ondertekent deze. De stichting publiceert haar jaarrekening, beleidsplan en afschriften publiekelijk.",
+      "paragraph2": "Daarnaast publiceren wij jaarlijks ook onze banktransacties. Dit doen wij uit overtuiging dat een stichting alleen kan bestaan door eerlijkheid, helderheid en volledige transparantie – zoals een Bushidokrijger zijn eer bewaakt."
+    },
+    "article9": {
+      "title": "Artikel 9 – Beleidsplan en verantwoording",
+      "content": "Jaarlijks stelt het bestuur een beleidsplan vast met doelen, activiteiten en begroting. De stichting legt publiekelijk verantwoording af over activiteiten en besteding van middelen."
+    },
+    "article10": {
+      "title": "Artikel 10 – Ontbinding",
+      "content": "Ontbinding kan door besluit van het bestuur met tweederdemeerderheid. Eventueel batig saldo gaat naar een ANBI-instelling met soortgelijke doelstelling."
+    },
+    "article11": {
+      "title": "Artikel 11 – Slotbepalingen",
+      "content": "In gevallen waarin deze statuten niet voorzien, beslist het bestuur. Wijzigingen zijn mogelijk met tweederdemeerderheid."
+    }
+  },
+  "skyyurt": {
+    "metaTitle": "Skyyurt, Skystone en Nomad's Heart",
+    "metaDescription": "Skyhaven, het geplande project van Stichting Anda: een Skyyurt voor stilte, een Skystone met de eed en café Nomad's Heart, open voor iedereen in 2030.",
+    "heroTitle": "Skyyurt, Skystone & Nomad's Heart",
+    "heroDescription": "Een toekomstproject van Stichting Anda. Gepland voor 2030 en mogelijk gemaakt door steun en donaties.",
+    "introTitle": "Inleiding",
+    "introParagraph1": "De Skyyurt, de Skystone en het café Nomad’s Heart vormen samen het Skyhaven-project van Stichting Anda. Dit project bestaat nu nog niet, maar het is ons verlangen en onze toewijding om het in 2030 te laten ontstaan op een bijzondere plek in Nederland.",
+    "introParagraph2": "Met dit initiatief willen we een vrije en toegankelijke plek scheppen: een meditatieruimte in de natuur waar iedereen welkom is — ongeacht religie, levensbeschouwing of achtergrond — en waar stilte geen product is dat je hoeft te kopen, maar iets dat je mag herinneren.",
+    "introParagraph3": "Het wordt een plek om even met jezelf te zijn. Om je gedachten en gevoelens zacht te ontmoeten, zonder oordeel. Een ruimte om te ademen, stil te worden en opnieuw in contact te komen met jezelf en de natuur.",
+    "skyyurtTitle": "De Skyyurt – Stilte onder de Eindeloze Hemel",
+    "skyyurtParagraph": "De Skyyurt is geïnspireerd op de traditionele ronde tenten van steppevolkeren. Het interieur is volledig bedekt met nomadische tapijten en kussens. De ruimte is open voor alle religies en levensbeschouwingen, en wil een publieke stilteplek zijn in de Nederlandse natuur.",
+    "skyyurtFeature1": "Geen stoelen – iedereen zit gelijk in de cirkel.",
+    "skyyurtFeature2": "Schoenen uit, stilte binnen.",
+    "skyyurtFeature3": "Maximaal 60 minuten verblijf per persoon.",
+    "skystoneTitle": "De Skystone – De And in Steen",
+    "skystoneParagraph": "Naast de Skyyurt verrijst de Skystone: een natuurstenen zuil van ongeveer 2,5 meter hoog. In dit monument wordt De And – De Eed gegraveerd, als een blijvend symbool van trouw, verbondenheid en innerlijke kracht.",
+    "skystoneQuote": "Ik zweer dat ik een nomade zal zijn, mijn hart open voor iedereen…",
+    "nomadsHeartTitle": "Nomad’s Heart – Warmte en Dialoog",
+    "nomadsHeartParagraph": "Waar de Skyyurt stilte brengt en de Skystone trouw verankert, biedt Nomad’s Heart warmte en ontmoeting: een café voor dialoog, filosofie, geloof en gesprekken over mentale gezondheid.",
+    "nomadsHeartFeature1": "Veilige ruimte voor mentale en emotionele uitdagingen.",
+    "nomadsHeartFeature2": "Ingericht als huiskamer met kleden, thee en boeken.",
+    "nomadsHeartFeature3": "Een brug tussen introspectie en dialoog.",
+    "purposeTitle": "Waarom de Skyyurt bestaat",
+    "purposeIntro": "Stichting Anda bouwt aan een plek die Nederland weinig kent: een spiritueel en meditatief huis in de natuur, toegankelijk voor iedereen — zonder religieuze drempels, zonder lidmaatschap, en zonder dat stilte een product wordt.",
+    "purposePoint1Title": "Open spiritualiteit, zonder religieuze poort",
+    "purposePoint1Text": "Een ruimte voor mensen met elke levensbeschouwing — of zonder religie. Geen heilige taal, geen verplichte leer, geen “juiste manier.” Alleen ruimte om te zijn.",
+    "purposePoint2Title": "Veilig en beschermd voor iedereen",
+    "purposePoint2Text": "Bewust ingericht als respectvolle en veilige omgeving voor vrouwen en mannen, waar rust en waardigheid voorop staan.",
+    "purposePoint3Title": "Stilte én vuur",
+    "purposePoint3Text": "Naast stilte is er warmte. Rond het vuur organiseren we avonden met muziek, verhalen en zang — ook als je nog nooit hebt gezongen.",
+    "purposePoint4Title": "Culturele ontmoetingsplek",
+    "purposePoint4Text": "Een plek waar culturen en ideeën elkaar ontmoeten zonder dat één traditie dominant wordt. Geen gesloten gemeenschap; iedereen is welkom met openheid en respect.",
+    "purposePoint5Title": "Toevlucht tegen werkdruk en digitale ruis",
+    "purposePoint5Text": "In Nomad’s Heart kun je lezen, zwijgen of met je laptop werken. Met stopcontacten en laptopvriendelijke plekken waar tijd geen schuld is.",
+    "purposePoint6Title": "Thuis voor poëzie en betekenis",
+    "purposePoint6Text": "Een plek om te schrijven en te delen in de voetsporen van Rumi, Yunus Emre, Hadewijch, Thomas a Kempis en andere spirituele dichters.",
+    "purposePoint7Title": "Lichaam en geest samen",
+    "purposePoint7Text": "Buitenruimte voor tai chi, yoga, ademwerk en een eenvoudige calisthenics-gym — waar innerlijke rust en fysieke kracht elkaar versterken.",
+    "purposePoint8Title": "Toegankelijkheid",
+    "purposePoint8Text": "De Skyyurt wordt een geschenk aan de samenleving: laagdrempelig, gedragen door donaties, en juist bedoeld voor wie zich vaak buitengesloten voelt.",
+    "purposeConclusion": "Uiteindelijk is de Skyyurt een uitnodiging om te vertragen — om weer te ademen, naar binnen te luisteren en natuur en gemeenschap te ervaren.",
+    "donationTitle": "🌿 Steun Stichting Anda",
+    "donationParagraph": "De Skyyurt, Skystone en Nomad’s Heart bestaan nog niet. Deze plannen worden werkelijkheid dankzij donaties en steun. Iedere bijdrage brengt ons dichter bij de eerste realisatie in 2030.",
+    "donationButton": "Doneer met iDEAL",
+    "donationComingSoon": "Donatiefunctionaliteit komt binnenkort beschikbaar!"
+  },
+  "boek": {
+    "metaTitle": "Boeken",
+    "metaDescription": "De boeken van Stichting Anda: het kernboek, De Filosofie van de Eindeloze Hemel, en het verhaal De Roep van de Steppe. Gratis te lezen en te downloaden.",
+    "pageTitle": "Boeken",
+    "coreShelf": "Kernliteratuur",
+    "storiesShelf": "Verhalen"
+  },
+  "jaarstukken": {
+    "metaTitle": "Jaarstukken",
+    "metaDescription": "De jaarrekeningen en beleidsplannen van Stichting Anda, volledig openbaar, zodat iedereen ziet hoe de stichting werkt en haar geld besteedt.",
+    "pageTitle": "Jaarstukken",
+    "subtitle": "Jaarrekening en beleidsplan van Stichting Anda",
+    "intro": "Jaarstukken zijn de ruggengraat van een eerlijke stichting. In onze jaarrekening vindt u onze financiële balans, inkomsten en uitgaven. In het beleidsplan leest u onze doelen, projecten en de richting die wij samen willen inslaan. Door dit ieder jaar te publiceren, tonen wij dat wij geen enkel geheim hebben over de manier waarop wij functioneren.",
+    "documentsTitle": "Documenten",
+    "empty": "Nog geen documenten. De eerste jaarstukken verschijnen hier zodra het boekjaar is afgesloten."
+  },
+  "bankafschriften": {
+    "metaTitle": "Bankafschriften",
+    "metaDescription": "Stichting Anda publiceert elk jaar haar bankafschriften, zodat elke gift, elke uitgave en elke transactie voor iedereen zichtbaar is.",
+    "pageTitle": "Bankafschriften",
+    "subtitle": "Elke transactie van Stichting Anda zichtbaar",
+    "intro": "Openheid gaat verder dan jaarcijfers alleen. Stichting Anda publiceert ook de jaarlijkse bankafschriften, waarin iedere transactie zichtbaar is. Dit laat zien:",
+    "point1": "Waar onze inkomsten vandaan komen (donaties, giften, subsidies).",
+    "point2": "Hoe wij ons geld besteden (projecten, activiteiten, maatschappelijke inzet).",
+    "point3": "Dat bestuurders geen beloningen ontvangen, enkel vacatiegeld of onkostenvergoeding.",
+    "conclusion": "Deze keuze is ongebruikelijk, maar past bij onze filosofie: eerlijk en transparant, zoals een Bushidokrijger zijn eer bewaakt.",
+    "documentsTitle": "Afschriften",
+    "empty": "Nog geen afschriften. De eerste bankafschriften verschijnen hier zodra het boekjaar is afgesloten."
+  },
+  "openheid": {
+    "metaTitle": "Openheid",
+    "metaDescription": "Waarom Stichting Anda alles publiceert: statuten, jaarstukken, bankafschriften en plannen, als voorbeeld van radicale transparantie.",
+    "pageTitle": "Openheid",
+    "subtitle": "Waarom Stichting Anda alles openbaar maakt",
+    "paragraph1": "In een wereld waarin stichtingen en organisaties vaak worden gewantrouwd, kiest Anda voor radicale transparantie. Wij willen een voorbeeld zijn: een stichting die niets te verbergen heeft, maar laat zien hoe zij handelt, in overeenstemming met haar waarden.",
+    "paragraph2": "Elke euro die u aan ons doneert, is zichtbaar in onze bankafschriften. Elk plan dat wij maken, staat beschreven in onze beleidsstukken. Elk idee dat wij delen, wordt vastgelegd in boeken en essays. Dit is onze manier om trouw te zijn aan onze eed: eerlijkheid, moed en compassie.",
+    "paragraph3": "Stichting Anda gelooft in openheid, eenvoud en eerlijkheid. Op de pagina's hieronder vindt u alle documenten die onze stichting bewust en vrijwillig openbaar maakt. Wij geloven dat ware spiritualiteit hand in hand gaat met transparantie: niets achter gesloten deuren, maar zichtbaar en controleerbaar voor iedereen. Zo kan iedereen met eigen ogen zien hoe wij werken, waar het geld vandaan komt, en hoe wij dit besteden aan onze missie.",
+    "linksTitle": "Documenten van de stichting"
+  },
+  "contact": {
+    "metaTitle": "Contact",
+    "metaDescription": "Neem contact op met Stichting Anda in Delft via het formulier of per e-mail. Stel een vraag, stel een samenwerking voor of doe mee aan de dialoog.",
+    "heroTitle": "Contact Stichting Anda",
+    "heroDescription": "Een brug tussen filosofie, gemeenschap en innovatie. Bereik ons en word deel van de dialoog onder de Eindeloze Hemel.",
+    "addressTitle": "Bezoek- en Correspondentieadres",
+    "foundationName": "Stichting Anda",
+    "street": "Rotterdamsweg 183C",
+    "city": "2629 HD Delft",
+    "region": "Zuid-Holland, Nederland",
+    "email": "info@andaphilosophy.com",
+    "phone": "+31 (0)15 – 123 4567",
+    "kvk": "91234567",
+    "rsin": "876543210",
+    "iban": "NL12BANK3456789012",
+    "bic": "BANKNL2A",
+    "aboutFoundationTitle": "Over Stichting Anda",
+    "aboutFoundationParagraph1": "Stichting Anda zet zich in om de eeuwenoude Anda-filosofie te vertalen naar de moderne samenleving. Vanuit onze thuisbasis in Delft bouwen we bruggen tussen spiritualiteit, wetenschap, kunst en gemeenschap.",
+    "aboutFoundationParagraph2": "We organiseren lezingen, dialogen, culturele projecten en workshops die uitnodigen tot reflectie en verbinding. Onze missie is om plekken van stilte en ontmoeting te creëren, waar mensen samenkomen om onzekerheid te omarmen en eerbied voor de natuur te cultiveren.",
+    "approachTitle": "Over onze aanpak",
+    "approachParagraph1": "Onze projecten groeien altijd vanuit dialoog en samenwerking. We geloven dat echte verandering niet ontstaat door theorie alleen, maar door ontmoeting en oefening in het dagelijks leven.",
+    "approachParagraph2": "Vanuit Delft werken we aan initiatieven die kunst, cultuur en gemeenschap met elkaar verbinden. Dit varieert van intieme workshops tot grootschalige culturele projecten, altijd met ruimte voor reflectie en verbeelding.",
+    "approachParagraph3": "Ons doel is om plekken van inspiratie en verbondenheid te creëren, waar mensen samen leren, nieuwe perspectieven ontdekken en zorg dragen voor elkaar en de natuur.",
+    "partnershipsTitle": "Samenwerken & Partnerschappen",
+    "partnershipsIntro": "Wij zijn altijd op zoek naar partners die onze visie delen: universiteiten, culturele instellingen, spirituele centra, overheden en bedrijven met een hart voor duurzaamheid, kunst en menselijkheid.",
+    "partnershipsArea1": "Onderwijs & Onderzoek: projecten met studenten en academische partners.",
+    "partnershipsArea2": "Gemeenschap: samenwerkingen met lokale en internationale netwerken.",
+    "partnershipsArea3": "Kunst & Cultuur: exposities, voorstellingen en creatieve projecten.",
+    "partnershipsArea4": "Innovatie: startups en ondernemingen die filosofie en technologie verbinden.",
+    "partnershipsConclusion": "Neem contact op voor een kennismakingsgesprek of een uitnodiging tot samenwerking.",
+    "accessibilityTitle": "Bereikbaarheid",
+    "accessibilityIntro": "Ons kantoor en café zijn eenvoudig bereikbaar per fiets, openbaar vervoer en auto. We nodigen bezoekers uit om zoveel mogelijk duurzaam te reizen.",
+    "accessibilityOption1": "Trein: Station Delft Zuid (10 min lopen)",
+    "accessibilityOption2": "Bus: Halte Rotterdamseweg (2 min lopen)",
+    "accessibilityOption3": "Auto: Parkeergelegenheid aanwezig (beperkt aantal plaatsen)",
+    "formTitle": "Stuur ons een bericht",
+    "formIntro": "Heeft u een vraag, idee of voorstel? Vul hieronder het formulier in en wij nemen spoedig contact met u op.",
+    "formName": "Naam",
+    "formNamePlaceholder": "Uw volledige naam",
+    "formEmail": "E-mailadres",
+    "formEmailPlaceholder": "uw@email.com",
+    "formSubject": "Onderwerp",
+    "formSubjectPlaceholder": "Onderwerp van uw bericht",
+    "formMessage": "Bericht",
+    "formMessagePlaceholder": "Typ hier uw bericht...",
+    "formSubmit": "📨 Verstuur bericht",
+    "formSending": "Bericht wordt verzonden...",
+    "formSuccess": "✅ Bericht verzonden! We nemen spoedig contact met u op."
+  },
+  "privacy": {
+    "metaTitle": "Privacybeleid",
+    "metaDescription": "Hoe Stichting Anda omgaat met persoonsgegevens op deze website: wat zij verzamelt, waarom, hoe lang zij die bewaart en welke rechten je hebt.",
+    "title": "Privacybeleid",
+    "intro": "Wij respecteren uw privacy. In dit beleid leggen we uit welke gegevens we verzamelen, waarom we dat doen en welke rechten u heeft.",
+    "sections": {
+      "dataWeCollect": {
+        "title": "Welke gegevens we verzamelen",
+        "text": "Wanneer u contact met ons opneemt, kunnen we uw naam, e-mailadres en de inhoud van uw bericht verzamelen. We verzamelen geen bijzondere persoonsgegevens tenzij u die vrijwillig deelt."
+      },
+      "whyWeUse": {
+        "title": "Waarom we uw gegevens gebruiken",
+        "text": "We gebruiken uw gegevens alleen om uw vragen te beantwoorden, communicatie te beheren en onze dienstverlening te verbeteren."
+      },
+      "sharing": {
+        "title": "Delen met derden",
+        "text": "We verkopen of verhuren uw gegevens niet. We delen gegevens alleen met dienstverleners als dat nodig is om deze website te laten werken, en uitsluitend onder strikte geheimhouding."
+      },
+      "retention": {
+        "title": "Hoe lang we gegevens bewaren",
+        "text": "We bewaren persoonsgegevens niet langer dan nodig is voor de hierboven beschreven doelen, of om te voldoen aan wettelijke verplichtingen."
+      },
+      "rights": {
+        "title": "Uw rechten",
+        "items": {
+          "access": "Inzage in uw gegevens",
+          "correction": "Correctie van onjuiste gegevens",
+          "deletion": "Verwijdering van uw gegevens",
+          "objection": "Bezwaar tegen verwerking",
+          "portability": "Dataportabiliteit"
+        }
+      },
+      "contact": {
+        "title": "Contact",
+        "text": "Heeft u vragen over privacy of wilt u gebruikmaken van uw rechten? Neem dan contact op via info@andaphilosophy.com."
+      }
+    },
+    "lastUpdated": "Laatst bijgewerkt: december 2025"
+  },
+  "cookies": {
+    "metaTitle": "Cookiebeleid",
+    "metaDescription": "Welke cookies de website van Stichting Anda gebruikt, waarvoor ze dienen en hoe je ze beheert of weigert.",
+    "title": "Cookiebeleid",
+    "intro": "Deze website gebruikt cookies om de site goed te laten werken en om te begrijpen hoe hij wordt gebruikt.",
+    "sections": {
+      "whatAreCookies": {
+        "title": "Wat zijn cookies?",
+        "text": "Cookies zijn kleine tekstbestanden die op uw apparaat worden opgeslagen wanneer u een website bezoekt. Ze helpen de website voorkeuren te onthouden en prestaties te verbeteren."
+      },
+      "whichCookies": {
+        "title": "Welke cookies we gebruiken",
+        "items": {
+          "necessary": {
+            "title": "Noodzakelijke cookies",
+            "text": "Deze zijn nodig voor basisfunctionaliteit zoals taalkeuze en navigatie."
+          },
+          "analytics": {
+            "title": "Analytische cookies",
+            "text": "Deze meten bezoekersaantallen en helpen de site verbeteren. Ze worden alleen geplaatst als we analytics inschakelen."
+          }
+        }
+      },
+      "manage": {
+        "title": "Cookies beheren",
+        "text": "U kunt cookies verwijderen of blokkeren via uw browserinstellingen. Het uitschakelen van noodzakelijke cookies kan de werking van de site beïnvloeden."
+      }
+    },
+    "lastUpdated": "Laatst bijgewerkt: december 2025"
+  },
+  "disclaimer": {
+    "metaTitle": "Disclaimer",
+    "metaDescription": "De voorwaarden voor het gebruik van de website van Stichting Anda: filosofische informatie, geen professioneel advies en beperkte aansprakelijkheid.",
+    "title": "Disclaimer",
+    "intro": "Wij doen ons best om de informatie op deze website correct en actueel te houden. Toch kunnen we niet altijd volledigheid of juistheid garanderen.",
+    "sections": {
+      "noAdvice": {
+        "title": "Geen professioneel advies",
+        "text": "De inhoud van deze website is uitsluitend informatief en filosofisch van aard en vormt geen juridisch, medisch of financieel advies."
+      },
+      "liability": {
+        "title": "Beperking van aansprakelijkheid",
+        "text": "Stichting Anda is niet aansprakelijk voor directe of indirecte schade die voortvloeit uit het gebruik van deze website of de aangeboden informatie."
+      },
+      "externalLinks": {
+        "title": "Externe links",
+        "text": "Deze website kan links naar externe websites bevatten. Wij zijn niet verantwoordelijk voor hun inhoud of privacybeleid."
+      },
+      "ip": {
+        "title": "Intellectuele eigendom",
+        "text": "Tenzij anders vermeld, is alle inhoud op deze website eigendom van Stichting Anda en mag deze niet worden gekopieerd zonder toestemming."
+      },
+      "contact": {
+        "title": "Contact",
+        "text": "Vragen over deze disclaimer kunt u sturen naar info@andaphilosophy.com."
+      }
+    },
+    "lastUpdated": "Laatst bijgewerkt: december 2025"
+  },
+  "book": {
+    "title": "Anda – De Filosofie van de Eindeloze Hemel",
+    "subtitle": "Het kernboek van de Anda",
+    "author": "Merthan Tukus",
+    "year": "2025",
+    "short": "Het volledige boek met boodschap, pilaren en eed.",
+    "long": "Het kernboek van Anda met de boodschap, de zes pilaren en de eed. Lees het als boekrol op deze pagina, of download het als één HTML-bestand dat u ook zonder internet kunt openen.",
+    "fileName": "anda-kernboek.html",
+    "open": "Lees het boek",
+    "download": "Download als HTML",
+    "close": "Sluiten",
+    "contents": "Inhoud",
+    "pillars": "De Zes Pilaren",
+    "oath": "De And",
+    "colophon": "Stichting Anda, andaphilosophy.com"
+  },
+  "steppe": {
+    "title": "De Roep van de Steppe",
+    "subtitle": "Hoofdstuk I tot en met V",
+    "author": "Merthan Tukus",
+    "year": "2026",
+    "short": "Een verhaal over Koru, een jonge nomade die de hemel een vraag stelt.",
+    "long": "De eerste vijf hoofdstukken van De Roep van de Steppe, een verhaal dat nog wordt geschreven: Koru, een jonge nomade van de stam Yel, verlaat de graslanden met een kompas dat naar het oosten wijst en reist verder naar de Berg van de Stille Klokken. Lees het als boekrol op deze pagina, of download het als één HTML-bestand.",
+    "fileName": "de-roep-van-de-steppe.html",
+    "open": "Lees het boek",
+    "englishOnly": "Dit boek is voorlopig alleen in het Engels beschikbaar."
+  },
+  "ands": {
+    "metaTitle": "Ands, eden in steen gehouwen",
+    "metaDescription": "Ands zijn eden, afgelegd onder de Eindeloze Hemel en elk in een eigen steen gehouwen. Stichting Anda zet ze een voor een neer.",
+    "title": "Ands",
+    "intro": "Eden, afgelegd onder de Eindeloze Hemel en elk in een eigen steen gehouwen. Stap van de ene steen naar de volgende.",
+    "previous": "Vorige steen",
+    "next": "Volgende steen",
+    "counter": "{current} van {total}",
+    "stones": "Stenen",
+    "goTo": "Naar steen {number}",
+    "untitled": "Eed {ordinal}"
+  },
+  "poems": {
+    "metaTitle": "Gedichten, korte gedichten en gedachten",
+    "metaDescription": "Korte gedichten en gedachten, geschreven onder de Eindeloze Hemel. Stichting Anda publiceert ze in het Nederlands, Engels en Turks.",
+    "title": "Gedichten",
+    "intro": "Korte gedichten en gedachten, geschreven onder de Eindeloze Hemel. Lees ze een voor een, of kies een maand of een taal.",
+    "eyebrow": "Gedichten",
+    "previous": "Vorige",
+    "next": "Volgende",
+    "counter": "{current} van {total}",
+    "openIndex": "Toon overzicht",
+    "closeIndex": "Verberg overzicht",
+    "allMonths": "Alle maanden",
+    "allLanguages": "Alle talen",
+    "language": {
+      "en": "Engels",
+      "nl": "Nederlands",
+      "tr": "Turks"
+    },
+    "empty": "Er zijn geen gedichten voor deze keuze.",
+    "untitled": "Gedicht {ordinal}"
+  },
+  "diepte": {
+    "metaTitle": "Andaïsme, de volledige referentietekst",
+    "metaDescription": "Andaïsme is de volledige referentietekst van Stichting Anda: de Filosofie van de Eindeloze Hemel deel voor deel uitgelegd, in één lange tekst.",
+    "pageTitle": "Andaïsme",
+    "subtitle": "De volledige referentietekst",
+    "readingTime": "{minutes} min lezen",
+    "contents": "Inhoud",
+    "backToTop": "Terug naar boven",
+    "englishOnly": "Deze tekst is voorlopig alleen in het Engels beschikbaar.",
+    "seeAlso": "Zie ook",
+    "figures": {
+      "skyyurt": "Conceptschets van een Skyyurt"
+    },
+    "infobox": {
+      "imageAlt": "Logo van Anda",
+      "type": {
+        "label": "Type",
+        "value": "Moderne religieuze en filosofische traditie"
+      },
+      "founded": {
+        "label": "Gesticht",
+        "value": "2024, Delft, Nederland"
+      },
+      "founder": {
+        "label": "Grondlegger",
+        "value": "Merthan Tukuş"
+      },
+      "origin": {
+        "label": "Culturele achtergrond",
+        "value": "Nederlands en Turks"
+      },
+      "centralConcept": {
+        "label": "Centraal begrip",
+        "value": "Mengü, de Eindeloze Hemel"
+      },
+      "texts": {
+        "label": "Teksten",
+        "value": "Ands; de centrale And"
+      },
+      "pillars": {
+        "label": "Pilaren",
+        "value": "Zes"
+      },
+      "aim": {
+        "label": "Centraal doel",
+        "value": "Eindeloos worden"
+      },
+      "followers": {
+        "label": "Volgelingen",
+        "value": "Anda"
+      },
+      "leaders": {
+        "label": "Spirituele leiders",
+        "value": "Onba"
+      },
+      "prayerHouse": {
+        "label": "Gebedshuis",
+        "value": "Gökevi (Hemelhuis)"
+      },
+      "sacredDay": {
+        "label": "Heilige dag",
+        "value": "Vrijdag"
+      },
+      "greeting": {
+        "label": "Groet",
+        "value": "Esen"
+      },
+      "influences": {
+        "label": "Invloeden",
+        "value": "Tengrisme, stoïcisme, existentialisme, agnosticisme, bushido, kintsugi, soefisme, alevisme"
+      },
+      "slogan": {
+        "label": "Slogan",
+        "value": "Laten we leven!"
+      }
+    }
+  },
+  "seo": {
+    "siteName": "Stichting Anda",
+    "homeDescription": "Stichting Anda deelt de Filosofie van de Eindeloze Hemel: een pad van reflectie, verbinding en eerbied voor de natuur, open voor iedereen.",
+    "ogImageAlt": "Het logo van Anda: een blauwe lijntekening van een yurt op een crèmekleurige achtergrond"
+  },
+  "notFound": {
+    "title": "Pagina niet gevonden",
+    "heading": "Deze pagina konden we niet vinden",
+    "description": "Het adres is misschien verkeerd getypt, of de pagina is verplaatst. Ga terug naar de homepage, of neem contact met ons op en we helpen u verder.",
+    "backHome": "Terug naar home",
+    "contact": "Neem contact op"
+  }
+}

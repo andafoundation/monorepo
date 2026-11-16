@@ -1,0 +1,651 @@
+{
+    "nav": {
+        "home": "Ana Sayfa",
+        "message": "Mesaj",
+        "pillars": "Sütunlar",
+        "oath": "Yemin",
+        "ands": "Ands",
+        "poems": "Şiirler",
+        "depth": "Derinlik",
+        "book": "Kitaplar",
+        "statutes": "Tüzük",
+        "annualReports": "Yıllık raporlar",
+        "bankStatements": "Banka ekstreleri",
+        "openness": "Açıklık",
+        "skyyurt": "Gökevi",
+        "contact": "İletişim",
+        "connect": "Connect",
+        "menuLabel": "Ana gezinme",
+        "openMenu": "Menüyü aç",
+        "closeMenu": "Menüyü kapat",
+        "groups": {
+            "leer": "Öğreti",
+            "teksten": "Metinler",
+            "stichting": "Vakıf"
+        },
+        "descriptions": {
+            "message": "Birkaç cümlede özü",
+            "pillars": "Yolun altı sütunu",
+            "oath": "Yolu mühürleyen söz",
+            "depth": "Tam başvuru makalesi",
+            "ands": "Taşa kazınmış andlar",
+            "poems": "Şiirler ve bilgelikler",
+            "book": "Temel eserler ve hikâyeler",
+            "statutes": "Anda Vakfı'nın tüzüğü",
+            "annualReports": "Yıllık hesaplar ve politika planı",
+            "bankStatements": "Her işlem görünür",
+            "openness": "Neden her şeyi açıkça paylaşıyoruz"
+        }
+    },
+    "home": {
+        "metaTitle": "Sonsuz Gökyüzünün Felsefesi",
+        "metaDescription": "Delft’teki Anda Vakfı, Sonsuz Gökyüzünün Felsefesini paylaşır: altı sütun, bir yemin, kısa şiirler ve dürüstlük üzerine ücretsiz bir kitap.",
+        "hero": {
+            "title": "Anda Vakfı",
+            "subtitle": "Sonsuz Gökyüzünün Felsefesi",
+            "description": "Antların, onurun, kararlılığın ve yeniden başlama cesaretinin yön verdiği bir yol.",
+            "cta": "Mesajı keşfet"
+        },
+        "about": {
+            "title": "Anda nedir?",
+            "paragraph1": "Anda, kökleri bozkırın kadim geleneklerine uzanan bir yaşam felsefesidir. “Anda” kelimesi bozkır dillerinde “yemin” veya “ant” anlamına gelir ve çoğu zaman kan bağından bile güçlü sayılan derin bir sadakati simgelerdi. Modern çağda Anda yeni bir bakış sunar: kendinle yaptığın bir ant, cesaretle, belirsizlikle, şefkatle ve doğaya saygıyla yaşama sözü.",
+            "paragraph2": "Anda Vakfı bu felsefeyi yaymayı ve hayata geçirmeyi amaçlar. Bir dogma olarak değil, diyalog, düşünce ve topluluk kurmaya davet olarak. Gelenek ile modernlik, maneviyat ile bilim, doğa ile insan arasında köprüler kurarız.",
+            "cta": "Altı Sütunu oku",
+            "imageAlt": "Anda yurt işareti"
+        },
+        "pillars": {
+            "title": "Anda’nın Altı Sütunu",
+            "intro": "Anda felsefesinin özü altı sütunda yatar. Birlikte dürüst, cesur ve bağlı bir yaşam için pusula oluştururlar.",
+            "cta": "Sütunları keşfet",
+            "pillar1": {
+                "title": "Göçebelik",
+                "description": "Hem bedenen hem zihnen daima hareket halinde. Göçebe öğrenmeye, keşfetmeye ve yenilenmeye devam eder."
+            },
+            "pillar2": {
+                "title": "Düz Bir Sırt",
+                "description": "Samuray disiplininden ilhamla dürüstlük, cesaret ve sportmenliği rehber edinmek."
+            },
+            "pillar3": {
+                "title": "Sonsuzluk",
+                "description": "Sonsuz Gökyüzü’nü bağlılığın ve maneviyatın simgesi olarak görmek."
+            },
+            "pillar4": {
+                "title": "Belirsizlik",
+                "description": "Mutlak doğruların olmadığını kabul etmek. Kendi belirsizliklerimizle ve daha büyük belirsizlikle yaşamayı öğrenmek."
+            },
+            "pillar5": {
+                "title": "Doğaya Saygı",
+                "description": "Doğayı iç dünyamızın kutsal alanı ve aynası olarak görmek. Saygı, bağ kurar."
+            },
+            "pillar6": {
+                "title": "İstem",
+                "description": "Kusurlar bizi benzersiz kılar. Altınla onarılan bir vazodaki çatlamalar gibi, yaralar güzelliğin bir parçasıdır. Hiç kimse ideal bir insan olamaz, önemli olan istemdir."
+            }
+        },
+        "sky": {
+            "title": "Sonsuz Gökyüzünün Altında",
+            "quote": "Ne üstünüz ne de aşağı. Biz olduğumuz gibiyiz. Sonsuz Gökyüzü ile biriz.",
+            "description": "Anda, belirsizliği kabul etmeye, doğayı onurlandırmaya ve kusurları kimliğimizin parçası olarak kucaklamaya çağırır. Sonsuz Gökyüzü; sonsuzluğun, çeşitliliğin ve bağın bir metaforudur.",
+            "cta": "Yemini oku"
+        },
+        "skyyurt": {
+            "title": "Skyyurtlar & Skystone’lar",
+            "paragraph1": "Skyyurt, bozkır halklarının sade yaşamından ilham alan bir sessizlik ve bağ mekânıdır. İnsanlar burada meditasyon, diyalog ve sıcacık bir çay için bir araya gelir. Sayısız sıcak halının arasında.",
+            "paragraph2": "Skystone’lar; cesaret, şefkat, dürüstlük ve doğaya saygı gibi evrensel değerleri hatırlatan yazıtları taşıyan taş sütunlardır. Birlikte Anda felsefesinin somut sembollerini oluştururlar.",
+            "cta": "Daha fazlasını keşfet"
+        },
+        "mission": {
+            "title": "Misyon & Vizyon",
+            "paragraph1": "Anda Vakfı, onur, dürüstlük, şefkat ve karşılıklı destek üzerine kurulu topluluklar oluşturmayı amaçlar. Ands aracılığıyla insanları bir amaçla yaşamaya, sorumluluk almaya ve başarısızlıktan sonra bile yeminlerine sadık kalmaya teşvik ederiz.",
+            "paragraph2": "Vizyonumuz, insanların onurla yaşadığı, belirsizliği kucakladığı, doğaya saygı duyduğu ve yeminlerinin arkasında durduğu daha eşit bir dünyadır. Birbirimize destek olduğumuz, başarısızlıklarımızdan ders aldığımız ve ilerlemeye devam ettiğimiz bir dünya."
+        },
+        "downloadCta": {
+            "title": "Tüm PDF’i indir",
+            "description": "Anda felsefesini bütünüyle okumak ister misin? Mesaj, sütunlar ve tüzükler dahil tam metni buradan indir.",
+            "cta": "PDF’i indir"
+        },
+        "contactCta": {
+            "title": "İletişime geç",
+            "description": "Soruların mı var, iş birliği yapmak mı istiyorsun ya da faaliyetlerimiz hakkında daha fazla bilgi mi arıyorsun? Bize şu yoldan ulaşabilirsin:",
+            "cta": "Bağlan"
+        }
+    },
+    "footer": {
+        "foundationName": "Anda Vakfı",
+        "shortMission": "Diyalog, düşünce ve doğaya saygıya adanmış kâr amacı gütmeyen bir vakıf.",
+        "anbiLine": "ANBI statüsü – kâr amacı gütmeyen vakıf",
+        "contactTitle": "İletişim & Yasal",
+        "address": {
+            "line1": "Rotterdamsweg 183C",
+            "line2": "2629 HD Delft",
+            "line3": "Güney Hollanda, Hollanda"
+        },
+        "emailLabel": "E-posta",
+        "email": "info@andaphilosophy.com",
+        "phoneLabel": "Telefon",
+        "phone": "+31 (0)15 – 123 4567",
+        "kvk": "91234567",
+        "rsin": "876543210",
+        "iban": "NL12BANK3456789012",
+        "bic": "BANKNL2A",
+        "privacy": "Gizlilik",
+        "cookies": "Çerezler",
+        "disclaimer": "Sorumluluk Reddi",
+        "copyright": "© Anda Vakfı"
+    },
+    "common": {
+        "readMore": "Devamını oku",
+        "readLess": "Daha az göster",
+        "downloadPdf": "İndir (PDF)"
+    },
+    "boodschap": {
+        "metaTitle": "Anda’nın Mesajı",
+        "metaDescription": "Anda’nın mesajı: bir başkasıyla değil, kendinle yapılan bir ahit. Anda Vakfı, yeminin ardındaki bozkır geleneğini anlatır.",
+        "title": "Anda’nın Mesajı",
+        "paragraph1": "Kadim bozkırda bir gelenek vardır. Bu geleneğin adı “anda”dır.",
+        "paragraph2": "“And” kelimesi bozkır halklarının dillerinde yemin ya da ant demektir. Bu kelimeden “anda” türemiştir: birbirine öylesine derin güvenen iki insanın, birbirini kardeş sayacağına dair ettiği ant. Böyle bağlar hayatta bir kez kurulur ve sonsuza dek sürerdi. Çoğu zaman kanla mühürlenirdi. İki kişi avuçlarına kılıçlarının ucuyla kesik atar ve birbirine sadakat yemini ederdi.",
+        "paragraph3": "Bu felsefe, Anda, aynı zamanda bir antlaşmadır.",
+        "paragraph4": "Ama bir başkasıyla değil.",
+        "paragraph5": "Kendinle.",
+        "paragraph6": "Mutlak doğru olmak zorunda olmayan ilkeler bütünü; çünkü bu felsefenin özü belirsizliği kabul etmektir. Ama kalbinde doğru hissettiğin ve uğruna yaşamak istediğin inançların toplamıdır.",
+        "paragraph7": "Ve belki bir gün, uğruna yemin edeceğin."
+    },
+    "eed": {
+        "metaTitle": "And, Yemin",
+        "metaDescription": "And, Anda Vakfı’nın yeminidir: göçebe olarak, dik bir sırtla, sonsuzlukla bir olarak ve doğaya saygıyla yaşama sözü.",
+        "title": "And – Yemin",
+        "oath1": "Göçebe olacağıma, kalbimi herkese açacağıma ant içerim.",
+        "oath2": "Gözlerim Sonsuz Gökyüzünde, omuzlarım dik; onurlu, sağlıklı bir beden ve berrak bir zihinle yaşayacağıma ant içerim.",
+        "oath3": "Sonsuzlukla bir olacağıma ant içerim.",
+        "oath4": "Belirsizlikle yaşamayı öğreneceğime ant içerim.",
+        "oath5": "Doğaya saygı duyacağıma ve dünyayı daha yeşil bırakacağıma ant içerim.",
+        "oath6": "Kırışıklıklarımı ve çatlaklarımı saklamayacağıma; bunun beni eksiltmediğine, sadece çoğalttığına ant içerim.",
+        "oathFinal": "Ant içerim, ant içerim, ant içerim."
+    },
+    "pilaren": {
+        "metaTitle": "Anda’nın Altı Sütunu",
+        "metaDescription": "Göçebelik, dik bir sırt, sonsuzluk, belirsizlik, doğaya saygı ve niyet: Anda Vakfı’nın altı sütunu, her biri ayrıntılı olarak anlatılır.",
+        "pageTitle": "Anda’nın Altı Sütunu",
+        "pillar1": {
+            "title": "Sütun 1: Göçebelik",
+            "short": "Her dolaşan kaybolmuş değildir. Birden çok yolu yürüyen yolunu yitirmiş değildir.",
+            "full": "Her dolaşan kaybolmuş değildir.\nHer birden çok yolu yürüyen yolunu yitirmiş değildir.\nKendini başkasının yerine koyan, kendini kaybetmiş olmaz.\nAnda’nın lideri, hem yaşamda hem düşüncede göçebedir.\nGöçebe; farklı kültürlere, ülkelere, geleneklere ve insanlara kalbini açandır.\nGöçebe; durmayan, yenilenen ve kendine meydan okuyandır.\nGöçebe; bir lokma ekmekle de yaşar, güzel bir sofradan da keyif alır.\nGöçebe; yeni yerler keşfederken kalbi hızlanan kişidir.\nGöçebe; her ne kadar zor olsa da, anda tam olarak bulunandır.\nBiz, Anda’nın liderleri olarak göçebeyiz.\nBir yerde fazla kalırsak ayaklarımız kaşınır.\nSonra bizden kendimize yeni bir yol açmamız istenir.\nSonsuz Gökyüzü ile biriz. Ve Sonsuz Gökyüzü neredeyse, biz de oradayız."
+        },
+        "pillar2": {
+            "title": "Sütun 2: Dik Durmak",
+            "short": "Dürüstlük. Omuzların dik, göğsün ileri. Gözlerin Sonsuz Gökyüzünde.",
+            "full": "Dürüstlük.\nOmuzların dik, göğsün ileri.\nGözlerin Sonsuz Gökyüzünde.\nBu, Anda liderinin mantrasıdır.\nKendi güvensizliklerini ve eksiklerini kabul eden.\nKendisiyle barış arayan.\nBaşkalarını iyi hissettirmek için değil, birlikte güçlenmek için yardımcı olan.\nAilesine, komşularına, hatta sevmediği insanlara el uzatmaya cesaret eden.\nGeçmişine ve hatalarına rağmen iyi biri olmaya çalışan.\nBu sütun, samuray felsefesinden ilham alır. Onur onların en yüce bayrağıydı ve bu felsefe uğruna harakiri yapmaya bile hazırdılar.\nŞurası çok net olsun: Anda, Buşido’nun harakirisine kesinlikle karşıdır. Ancak Buşido’nun diğer pozitif yönlerini ilham olarak alır. Bu yüzden adı “Pozitif Buşido”dur.\nDeğerler şunlardır:\n\n1. Cesaret\n2. Onur\n3. Sportmenlik\n4. Dürüstlük\n5. Sağlıklı beden, güçlü zihin"
+        },
+        "pillar3": {
+            "title": "Sütun 3: Sonsuzluk",
+            "short": "Dünya tek gezegen değil. Milyarlarca var.",
+            "full": "Dünya tek gezegen değil.\nMilyarlarca var.\nSonsuz Gökyüzü, Anda liderleri için bir Tanrı ya da kişi değil, bir enerjidir: düşüncelerin, gezegenlerin, fikirlerin, insanların ve doğanın sonsuzluğu.\nStres ve olumsuzluk anlarında bu düşünceleri uzak tutmaya çalışmayız; onları kabul eder, aydınlatır, anlar ve onlarla bir oluruz.\nMüzik yaptığımızda, söylediğimizde; nefret ettiğin insanlarla bile bir oluruz — sevgi, barış ve sonsuzlukla bir oluruz.\nElin parmakları gibi, Anda lideri de insanların Sonsuzluğa birden çok yoldan ulaşabileceğine inanır.\nTanrıya ya da tanrılara inanarak, farklı dinler ve felsefelerle; ya da hiç inanmadan.\nBiz, Anda liderleri, ne üstünüz ne de aşağı.\nBiz olduğumuz gibiyiz,\nSonsuz Gökyüzü ile biriz.\nFarklı kökenlerden, kandan, renkten insanlarla biriz.\nKalbimiz, kendi kalbini açan herkese açıktır."
+        },
+        "pillar4": {
+            "title": "Sütun 4: Belirsizlik",
+            "short": "Bu dünya ve hayatlarımız bir Tanrının oyunundaki bir simülasyon olabilir.",
+            "full": "Düşüncelerimiz bir rüyanın parçası olabilir. Gezegenler, yıldızlar ve evren bir yanılsama olabilir. Varoluş hakkında anladığımız her şey eksik, hatalı ya da hayal ettiğimizden bambaşka olabilir. Varoluşun kökeni bile insan zihninin kavrayabileceği her şeyin ötesinde olabilir.\n\nMengü, Sonsuz Gökyüzü, kavrayışımızın ötesindeki sonsuzluğu temsil eder. Yine de Andaizm, Mengü'nün bile hayal ettiğimiz gibi var olmayabileceğini kabul eder. Sonsuz Gökyüzü bir yanılsama, bir insan icadı, ortak bir hayal ya da inandığımızdan bambaşka bir şey olabilir. Andaizm'in kutsal merkezi bile belirsizlikten muaf değildir.\n\nBir Anda, Mengü'ye inanmayı seçebilir; ancak bu inancı asla mutlak bilgiyle karıştırmamalıdır. Hiçbir din, felsefe ya da ideoloji, varoluşun nihai doğasına ilişkin her belirsizlik olasılığını kesin olarak ortadan kaldıramaz.\n\nBu, Andaizm'in temel öğretilerinden biridir: Mengü'yü, gerçek olduğunu kesin olarak bildiğimiz için izlemeyiz. Mengü'yü, Sonsuz Gökyüzü bize bilinmeyene yaklaşmanın, varoluşta anlam bulmanın ve onun içinde daha huzurlu yaşamanın bir yolunu verdiği için izleriz.\n\nAnds, bu belirsizliğin altında seçtiğimiz yoldur. Antlarımız aracılığıyla Mengü'ye yaklaşmaya ve sonsuz olmaya çalışırız; her yanıtı keşfederek değil, hepsine ihtiyaç duymadan yaşamayı öğrenerek.\n\nBelirsizliği kabul etmek bizi zayıflatmaz. Bizi ille de güçlendirmez de. Onu yalnızca olduğu gibi görürüz; utanmadan, korkmadan ve inancı bilgi kılığına sokma ihtiyacı duymadan.\n\nMengü bir insan rüyasından başka bir şey olmasaydı bile, o rüyanın altında yaşadığımız hayat bizim için gerçek kalırdı. Ve o hayat dolu dolu yaşanmaya değer."
+        },
+        "pillar5": {
+            "title": "Sütun 5: Doğaya Saygı",
+            "short": "Bir ağaca dokunup gözlerini kapatmak garip mi? Anda lideri için değil.",
+            "full": "Biz doğanın parçasıyız ve doğa bizim parçamız.\nDoğada yürüyüş tercihen yalnız yapılır.\nAz ses, az dikkat dağıtıcı.\nSadece sen, doğa ve Sonsuz Gökyüzü.\nDoğa bütün sorunlarını sihirli biçimde iyileştirmez.\nBunu da kabul etmeyi öğreniriz.\nDoğa kutsal bir alan gibidir: bazen aradığın huzuru bulamazsın, bazen kaçmaya çalıştığın düşüncelerle yüzleştirir seni.\nAma bu da onun kutsal bilgeliğinin bir parçasıdır ve her zaman geri dönebileceğin bir sığınak olarak kalır.\nOrada düşüncelerini serbest bırakır ve kendini daha iyi tanırsın.\nAnda lideri ağaç dikmeyi, bahçesini bakımını yapmayı, tohumlar saçmayı, doğayı öğrenmeyi ve vahşi doğada hayatta kalmayı araştırmayı sever.\nÇünkü biz biriz."
+        },
+        "pillar6": {
+            "title": "Sütun 6: Amaç",
+            "short": "Kusurlar bizi benzersiz kılar. Altınla onarılan bir vazodaki çatlamalar gibi, yaralar güzelliğin bir parçasıdır. Hiç kimse ideal bir insan olamaz, önemli olan amaçdir.",
+            "full": "Bu son sütun Kintsugi’nin ilkelerine dayanır. Anda liderleri kusurun hayatın parçası olduğunu bilir.\nAnda lideri mükemmelliğe ulaşmaya çalışmaz; mükemmellik yalnızca ütopyalarda ve masallarda vardır.\nBu sütunları izleyerek nirvanaya ulaşılmaz. Aksine, çoğu zaman bazı sütunları uygulamakta zorlanır ya da unutabiliriz.\nBazen başka meseleler — arzular, ayartılar — dikkatimizi dağıtır.\nBu da kusurun parçasıdır.\nBir sivilce ya da engel insanı çirkin yapmadığı gibi, biz de katmanların altına bakmayı öğreniriz.\nMesleği ne olursa olsun insanlara el uzatır, onları anlamaya çalışır ve birlikte bir yol yürürüz.\nKintsugi de böyle öğretir: bir vazodaki çatlaklar gizlenecek şeyler değil, tarihin ve güzelliğin parçasıdır."
+        }
+    },
+    "statuten": {
+        "metaTitle": "Tüzük",
+        "metaDescription": "Anda Vakfı’nın tüzüğü: adı ve merkezi, amacı, araçları, varlıkları, yönetimi, yıllık hesapları, politika planı ve tasfiyesi.",
+        "pageTitle": "Anda Vakfı Tüzüğü",
+        "subtitle": "Sonsuz Gökyüzünün Felsefesi",
+        "transparency": {
+            "title": "Şeffaflık & Yıllık Raporlar",
+            "paragraph1": "Anda Vakfı dürüstlük, açıklık ve güveni temel alır. Onurunu koruyan bir Buşido savaşçısı gibi, yıllık hesaplarımızı, politika planımızı, raporlarımızı ve banka hareketlerimizi her yıl yayımlarız.",
+            "paragraph2": "Tam açıklığın sürdürülebilir ve manevi bir topluluk için şart olduğuna inanıyoruz. Böylece herkes kaynaklarımızın nasıl kullanıldığını, misyonumuz ve Sonsuz Gökyüzü uğruna nasıl harcandığını her zaman görebilir."
+        },
+        "article1": {
+            "title": "Madde 1 – İsim ve Merkez",
+            "content": "Vakfın adı: Anda Vakfı – Sonsuz Gökyüzünün Felsefesi’dir. Anda Vakfı kısaltılmış adıyla da anılabilir. Vakfın merkezi Hollanda’nın Delft belediyesi sınırları içindedir."
+        },
+        "article2": {
+            "title": "Madde 2 – Amaç",
+            "intro": "Vakfın amaçları şunlardır:",
+            "goals": [
+                "Anda felsefesinden ilhamla felsefi, manevi, kültürel ve toplumsal araştırma ve diyaloğu teşvik etmek.",
+                "İnsan, doğa ve kozmos arasındaki ilişki üzerine düşünmeyi ve farkındalığı artırmak.",
+                "Dürüstlük, şefkat ve bağın merkezde olduğu topluluklara katkıda bulunmak.",
+                "Manevi ve felsefi çeşitliliğin anlaşılmasını ve saygıyla yaşanmasını desteklemek."
+            ],
+            "conclusion": "Vakıf kâr amacı gütmez ve ANBI statüsü şartlarını karşılar."
+        },
+        "article3": {
+            "title": "Madde 3 – Araçlar",
+            "intro": "Vakıf amaçlarına şu yollarla ulaşmayı hedefler:",
+            "means": [
+                "Konferanslar, konuşmalar, inzivalar (retreat), atölyeler ve diyalog buluşmaları düzenlemek.",
+                "Kitaplar, denemeler, podcast’ler ve sanatsal üretimler yayımlamak.",
+                "Skyyurtlar ve Skystone’lar kurmak, geliştirmek ve işletmek.",
+                "Eğitim kurumları ve toplumsal kuruluşlarla iş birlikleri yapmak.",
+                "Bağışlar, hibeler, vasiyetler, miraslar ve teşviklerle kaynak oluşturmak."
+            ]
+        },
+        "article4": {
+            "title": "Madde 4 – Malvarlığı",
+            "content": "Vakfın malvarlığı; hibeler, bağışlar, armağanlar, miraslar, vasiyetler ve faaliyet gelirlerinden oluşur. Tüm kaynaklar yalnızca vakfın amaçları için kullanılır. Yönetim kurulu üyeleri maaş almaz; yalnızca toplantı ücreti ve masraf iadesi alabilir."
+        },
+        "article5": {
+            "title": "Madde 5 – Yönetim Kurulu",
+            "content": "Yönetim kurulu en az bir kişiden oluşur. Görevler (başkan, sekreter, sayman) bölüştürülebilir. Atamalar dört yıllıktır ve yenilenebilir. Kurul, vakfın amaçlarını ve ilham kaynaklarını korur."
+        },
+        "article6": {
+            "title": "Madde 6 – Temsil Yetkisi",
+            "content": "Vakıf, yönetim kurulu tarafından müştereken temsil edilir. 25.000 €’yu aşan hukuki işlemler için kurulun tamamının onayı gerekir."
+        },
+        "article7": {
+            "title": "Madde 7 – Toplantılar ve Karar Alma",
+            "content": "Yönetim kurulu yılda en az iki kez toplanır. Her toplantı için tutanak tutulur. Kararlar çoğunluk oyu ile alınır."
+        },
+        "article8": {
+            "title": "Madde 8 – Yıllık Hesaplar ve Şeffaflık",
+            "paragraph1": "Mali yıl takvim yılı ile aynıdır. Yönetim kurulu, mali yıl bitiminden itibaren altı ay içinde yıllık hesapları onaylar ve imzalar. Vakıf yıllık hesaplarını, politika planını ve raporlarını kamuya açık şekilde yayımlar.",
+            "paragraph2": "Buna ek olarak, banka işlemlerimizi de her yıl yayımlarız. Bunu, bir vakfın yalnızca dürüstlük, açıklık ve tam şeffaflıkla var olabileceğine olan inancımızdan yapıyoruz — tıpkı onurunu koruyan bir Buşido savaşçısı gibi."
+        },
+        "article9": {
+            "title": "Madde 9 – Politika Planı ve Hesap Verebilirlik",
+            "content": "Yönetim kurulu her yıl hedefleri, faaliyetleri ve bütçeyi içeren bir politika planı hazırlar. Vakıf, faaliyetleri ve kaynak kullanımını kamuya açık şekilde raporlar."
+        },
+        "article10": {
+            "title": "Madde 10 – Fesih",
+            "content": "Vakfın feshi, yönetim kurulunun üçte iki çoğunluğu ile karara bağlanabilir. Olumlu bakiye, benzer amaçlara sahip bir ANBI kurumuna aktarılır."
+        },
+        "article11": {
+            "title": "Madde 11 – Son Hükümler",
+            "content": "Bu tüzükte düzenlenmeyen durumlarda yönetim kurulu karar verir. Değişiklikler üçte iki çoğunlukla yapılabilir."
+        }
+    },
+    "skyyurt": {
+        "metaTitle": "Gökyurt, Andtaş ve Göçer’in Kalbi",
+        "metaDescription": "Anda Vakfı’nın planlanan projesi: sessizlik için bir Gökyurt, yemini taşıyan bir Andtaş ve Göçer’in Kalbi kafesi, 2030’da herkese açık.",
+        "heroTitle": "Gökyurt, Andtaş ve Göçer’in Kalbi",
+        "heroDescription": "Anda Vakfı’nın gelecek projesi. 2030 için planlanıyor ve bağışlarla hayata geçirilecek.",
+        "introTitle": "Giriş",
+        "introParagraph1": "Gökyurt, Andtaş ve Göçer’in Kalbi kafesi birlikte Anda Vakfı’nın Gökevi Projesi’ni oluşturur. Bu proje henüz mevcut değil; fakat onu 2030’da Hollanda’da özel bir yerde yaşama geçirmek için içten bir niyet ve kararlılık taşıyoruz.",
+        "introParagraph2": "Bu girişimle doğada özgür ve erişilebilir bir alan kurmak istiyoruz: Herkesin — din, dünya görüşü ya da köken fark etmeksizin — hoş karşılandığı, sessizliğin satın alınmadığı, sadece hatırlanıp yaşandığı bir meditasyon mekânı.",
+        "introParagraph3": "Kendinle bir an baş başa kalabileceğin bir yer. Düşünce ve duygularını yargısız, yumuşakça karşılayabileceğin bir alan. Nefes almak, yavaşlamak, durulmak ve kendinle ve doğayla yeniden bağ kurmak için.",
+        "skyyurtTitle": "Gökyurt – Sonsuz Gökyüzü Altında Sessizlik",
+        "skyyurtParagraph": "Gökyurt, bozkır halklarının geleneksel yuvarlak çadırlarından ilham alır. İçerisi göçebe halıları ve minderlerle kaplıdır. Tüm dinlere ve dünya görüşlerine açıktır ve Hollanda doğasında kamusal bir sessizlik alanı olmayı amaçlar.",
+        "skyyurtFeature1": "Sandalye yok — herkes çemberde eşit oturur.",
+        "skyyurtFeature2": "Ayakkabısız, içeride sessizlik.",
+        "skyyurtFeature3": "Kişi başı en fazla 60 dakika kalış.",
+        "skystoneTitle": "Andtaş – Taşa Kazınmış And",
+        "skystoneParagraph": "Gökyurt’un yanında Andtaş yükselir: Yaklaşık 2,5 metre yüksekliğinde doğal bir taş sütun. Üzerine “And – Yemin” kazınacaktır; sadakat, bağ ve içsel gücün kalıcı bir sembolü olarak.",
+        "skystoneQuote": "“Göçebe olacağıma, kalbimi herkese açacağıma ant içerim…”",
+        "nomadsHeartTitle": "Göçer’in Kalbi – Sıcaklık ve Diyalog",
+        "nomadsHeartParagraph": "Gökyurt sessizlik getirirken Andtaş bağlılığı taşır; Göçer’in Kalbi ise sıcaklık ve karşılaşma sunar: felsefe, inanç ve ruh sağlığı üzerine sohbetler için bir kafe.",
+        "nomadsHeartFeature1": "Zihinsel ve duygusal zorluklar için güvenli alan.",
+        "nomadsHeartFeature2": "Halılar, çay ve kitaplarla ev gibi döşenmiş.",
+        "nomadsHeartFeature3": "İçsel yolculuk ile diyalog arasında bir köprü.",
+        "purposeTitle": "Gökyurt Neden Var?",
+        "purposeIntro": "Anda Vakfı, Hollanda’da hâlâ eksik olan bir şeyi inşa ediyor: Doğada herkesin erişebileceği, dini kapılar olmadan, üyelik ya da bedel istemeyen manevi ve meditatif bir yuva.",
+        "purposePoint1Title": "Açık maneviyat, dini kapı yok",
+        "purposePoint1Text": "Her inançtan — ya da inançsız — insan için bir yer. Zorunlu öğreti, kutsal dil ya da tek “doğru yol” yok. Sadece var olma alanı.",
+        "purposePoint2Title": "Herkes için güven ve saygı",
+        "purposePoint2Text": "Kadınlar ve erkekler için eşit derecede güvenli, onuru koruyan ve saygılı bir ortam.",
+        "purposePoint3Title": "Sessizlik ve ateş",
+        "purposePoint3Text": "Dinginliğin yanında sıcaklık da var. Ateş başında hikâye, müzik ve birlikte şarkı geceleri — hiç söylememiş olsan bile.",
+        "purposePoint4Title": "Kültürel buluşma alanı",
+        "purposePoint4Text": "Tek bir geleneğin baskın olmadığı, kültürler ve felsefeler arası diyalog mekânı. Kapalı bir topluluk değil; saygı ve açıklıkla herkes hoş geldin.",
+        "purposePoint5Title": "İş ve dijital gürültüden kaçış",
+        "purposePoint5Text": "Göçer’in Kalbi’nde okuyabilir, sessizce oturabilir veya laptopla çalışabilirsin. Zaman burada asla borç değildir.",
+        "purposePoint6Title": "Şiir ve anlam için ev",
+        "purposePoint6Text": "Rumi, Yunus Emre, Hadewijch, Thomas a Kempis ve diğer manevi şairlerin izinde şiir yazmak ve paylaşmak için bir yer.",
+        "purposePoint7Title": "Beden ve zihin birlikte",
+        "purposePoint7Text": "Tai chi, yoga, nefes çalışmaları ve sade bir kalisteni alanı — iç huzur ile fiziksel gücü birleştirir.",
+        "purposePoint8Title": "Erişilebilirlik esas",
+        "purposePoint8Text": "Gökyurt topluma bir armağan olsun diye tasarlanıyor: Düşük eşikli, bağış destekli ve manevi mekânlardan dışlanmış hisseden insanlar için özellikle açık.",
+        "purposeConclusion": "Gökyurt, yavaşlamak, iç sesi duymak ve doğa ve toplulukla yeniden bağ kurmak için bir davettir.",
+        "donationTitle": "🌿 Anda Vakfı’na Destek Ol",
+        "donationParagraph": "Gökyurt, Andtaş ve Göçer’in Kalbi henüz yok. Bu planlar bağış ve destekle gerçeğe dönüşecek. Her katkı bizi 2030’daki ilk gerçekleşmeye bir adım yaklaştırır.",
+        "donationButton": "iDEAL ile Bağış Yap",
+        "donationComingSoon": "Bağış sistemi yakında!"
+    },
+    "boek": {
+        "metaTitle": "Kitaplar",
+        "metaDescription": "Anda Vakfı’nın kitapları: temel kitap Sonsuz Gökyüzü Felsefesi ve Bozkırın Çağrısı hikâyesi. Herkes ücretsiz okuyabilir ve indirebilir.",
+        "pageTitle": "Kitaplar",
+        "coreShelf": "Temel Eserler",
+        "storiesShelf": "Hikâyeler"
+    },
+    "jaarstukken": {
+        "metaTitle": "Yıllık raporlar",
+        "metaDescription": "Anda Vakfı’nın yıllık hesapları ve politika planları, vakfın nasıl çalıştığını ve parasını nasıl harcadığını herkes görsün diye tam olarak yayımlanır.",
+        "pageTitle": "Yıllık raporlar",
+        "subtitle": "Anda Vakfı'nın yıllık hesapları ve politika planı",
+        "intro": "Yıllık raporlar dürüst bir vakfın bel kemiğidir. Yıllık hesaplarımızda mali durumumuzu, gelir ve giderlerimizi bulursunuz. Politika planında hedeflerimizi, projelerimizi ve birlikte izlemek istediğimiz yönü okuyabilirsiniz. Bunu her yıl yayımlayarak işleyişimizde gizlimiz olmadığını gösteririz.",
+        "documentsTitle": "Belgeler",
+        "empty": "Henüz belge yok. İlk yıllık raporlar mali yıl kapandığında burada yayımlanacak."
+    },
+    "bankafschriften": {
+        "metaTitle": "Banka ekstreleri",
+        "metaDescription": "Anda Vakfı banka ekstrelerini her yıl yayımlar; böylece her bağış, her harcama ve her işlem herkes tarafından görülebilir.",
+        "pageTitle": "Banka ekstreleri",
+        "subtitle": "Anda Vakfı'nın her işlemi görünür",
+        "intro": "Açıklık yalnızca yıllık rakamlarla sınırlı değildir. Anda Vakfı yıllık banka ekstrelerini de yayımlar; böylece her işlem görünür olur. Bu şunları gösterir:",
+        "point1": "Gelirimizin nereden geldiğini (bağışlar, hibeler, teşvikler).",
+        "point2": "Paramızı nasıl harcadığımızı (projeler, etkinlikler, toplumsal katkı).",
+        "point3": "Yönetim kurulu üyelerinin ücret almadığını, sadece toplantı ücreti veya masraf iadesi aldığını.",
+        "conclusion": "Bu tercih alışılmışın dışında olabilir ama felsefemize uygundur: dürüst ve şeffaf; tıpkı onurunu koruyan bir Buşido savaşçısı gibi.",
+        "documentsTitle": "Ekstreler",
+        "empty": "Henüz ekstre yok. İlk banka ekstreleri mali yıl kapandığında burada yayımlanacak."
+    },
+    "openheid": {
+        "metaTitle": "Açıklık",
+        "metaDescription": "Anda Vakfı neden her şeyi yayımlar: tüzük, yıllık raporlar, banka ekstreleri ve planlar, radikal şeffaflığa bir örnek olarak.",
+        "pageTitle": "Açıklık",
+        "subtitle": "Anda Vakfı neden her şeyi açıkça paylaşıyor",
+        "paragraph1": "Vakıflara ve kurumlara güvenin sarsıldığı bir dünyada Anda radikal şeffaflığı seçer. Amacımız örnek olmaktır: saklayacak hiçbir şeyi olmayan, değerleriyle uyumlu şekilde hareket eden bir vakıf.",
+        "paragraph2": "Bize bağışladığınız her euro banka ekstrelerinde görünür. Yaptığımız her plan politika belgelerinde yer alır. Paylaştığımız her fikir kitaplara ve denemelere kaydedilir. Bu, yeminimize sadık kalma yolumuzdur: dürüstlük, cesaret ve şefkat.",
+        "paragraph3": "Anda Vakfı açıklığa, sadeliğe ve dürüstlüğe inanır. Aşağıdaki sayfalarda vakfımızın bilinçli ve gönüllü olarak kamuya açtığı tüm belgeleri bulabilirsiniz. Gerçek maneviyatın şeffaflıkla birlikte yürüdüğüne inanıyoruz: kapalı kapılar ardında hiçbir şey yok, herkes için görünür ve doğrulanabilir. Böylece herkes nasıl çalıştığımızı, paranın nereden geldiğini ve misyonumuz için nasıl harcandığını kendi gözleriyle görebilir.",
+        "linksTitle": "Vakıf belgeleri"
+    },
+    "contact": {
+        "metaTitle": "İletişim",
+        "metaDescription": "Delft’teki Anda Vakfı’na form veya e-posta ile ulaşın. Bir soru sorun, bir iş birliği önerin ya da Sonsuz Gökyüzü altındaki diyaloğa katılın.",
+        "heroTitle": "Anda Vakfı ile İletişim",
+        "heroDescription": "Felsefe, topluluk ve yenilik arasında bir köprü. Bize ulaşın ve Sonsuz Gökyüzü altındaki diyaloğun parçası olun.",
+        "addressTitle": "Ziyaret ve Yazışma Adresi",
+        "foundationName": "Anda Vakfı",
+        "street": "Rotterdamsweg 183C",
+        "city": "2629 HD Delft",
+        "region": "Güney Hollanda, Hollanda",
+        "email": "info@andaphilosophy.com",
+        "phone": "+31 (0)15 – 123 4567",
+        "kvk": "91234567",
+        "rsin": "876543210",
+        "iban": "NL12BANK3456789012",
+        "bic": "BANKNL2A",
+        "aboutFoundationTitle": "Anda Vakfı hakkında",
+        "aboutFoundationParagraph1": "Anda Vakfı, kadim Anda felsefesini modern topluma taşımayı amaçlar. Delft’teki merkezimizden maneviyat, bilim, sanat ve topluluk arasında köprüler kurarız.",
+        "aboutFoundationParagraph2": "Düşünce ve bağ kurmaya davet eden konferanslar, diyaloglar, kültürel projeler ve atölyeler düzenleriz. Misyonumuz, belirsizliği kucaklayıp doğaya saygıyı geliştiren insanların buluştuğu sessizlik ve karşılaşma alanları oluşturmaktır.",
+        "approachTitle": "Yaklaşımımız",
+        "approachParagraph1": "Projelerimiz her zaman diyalogdan ve iş birliğinden doğar. Gerçek değişimin sadece teoriden değil, karşılaşmadan ve gündelik pratikten geldiğine inanırız.",
+        "approachParagraph2": "Delft’ten yola çıkarak sanat, kültür ve topluluğu bir araya getiren girişimler yürütürüz. Kimi zaman samimi atölyeler, kimi zaman geniş kapsamlı kültürel projeler; her zaman düşünceye ve hayale yer açarız.",
+        "approachParagraph3": "Hedefimiz, insanların birlikte öğrendiği, yeni bakışlar keşfettiği ve birbirine ve doğaya özen gösterdiği ilham ve bağ mekânları yaratmaktır.",
+        "partnershipsTitle": "İş Birliği & Ortaklıklar",
+        "partnershipsIntro": "Vizyonumuzu paylaşan ortaklar arıyoruz: üniversiteler, kültür kurumları, manevi merkezler, kamu kuruluşları ve sürdürülebilirlik, sanat ve insanlık için yüreği olan şirketler.",
+        "partnershipsArea1": "Eğitim & Araştırma: öğrenciler ve akademik ortaklarla projeler.",
+        "partnershipsArea2": "Topluluk: yerel ve uluslararası ağlarla iş birlikleri.",
+        "partnershipsArea3": "Sanat & Kültür: sergiler, performanslar ve yaratıcı projeler.",
+        "partnershipsArea4": "Yenilik: felsefe ve teknolojiyi birleştiren girişimler ve şirketler.",
+        "partnershipsConclusion": "Tanışma toplantısı veya iş birliği daveti için bize yazın.",
+        "accessibilityTitle": "Ulaşılabilirlik",
+        "accessibilityIntro": "Ofisimiz ve kafemiz bisiklet, toplu taşıma ve araba ile kolayca ulaşılabilir. Ziyaretçilerimizi mümkün olduğunca sürdürülebilir şekilde seyahat etmeye davet ediyoruz.",
+        "accessibilityOption1": "Tren: Delft Zuid İstasyonu (10 dk yürüyüş)",
+        "accessibilityOption2": "Otobüs: Rotterdamseweg durağı (2 dk yürüyüş)",
+        "accessibilityOption3": "Araba: Otopark mevcut (sınırlı alan)",
+        "formTitle": "Bize mesaj gönder",
+        "formIntro": "Bir sorunuz, fikriniz veya öneriniz mi var? Aşağıdaki formu doldurun, en kısa sürede size dönüş yapalım.",
+        "formName": "Ad Soyad",
+        "formNamePlaceholder": "Tam adınız",
+        "formEmail": "E-posta adresi",
+        "formEmailPlaceholder": "ornek@email.com",
+        "formSubject": "Konu",
+        "formSubjectPlaceholder": "Mesajınızın konusu",
+        "formMessage": "Mesaj",
+        "formMessagePlaceholder": "Mesajınızı buraya yazın...",
+        "formSubmit": "📨 Mesaj gönder",
+        "formSending": "Mesaj gönderiliyor...",
+        "formSuccess": "✅ Mesaj gönderildi! En kısa sürede size ulaşacağız."
+    },
+    "privacy": {
+        "metaTitle": "Gizlilik Politikası",
+        "metaDescription": "Anda Vakfı bu web sitesinde kişisel verileri nasıl işler: hangi verileri neden toplar, ne kadar saklar ve hangi haklara sahipsiniz.",
+        "title": "Gizlilik Politikası",
+        "intro": "Gizliliğinize saygı duyuyoruz. Bu politika hangi verileri topladığımızı, neden topladığımızı ve hangi haklara sahip olduğunuzu açıklar.",
+        "sections": {
+            "dataWeCollect": {
+                "title": "Topladığımız veriler",
+                "text": "Bizimle iletişime geçtiğinizde adınızı, e-posta adresinizi ve mesaj içeriğinizi toplayabiliriz. Siz gönüllü olarak paylaşmadıkça hassas kişisel veri toplamıyoruz."
+            },
+            "whyWeUse": {
+                "title": "Verileri neden kullanıyoruz",
+                "text": "Verilerinizi yalnızca sorularınıza yanıt vermek, iletişimi yönetmek ve hizmetlerimizi geliştirmek için kullanırız."
+            },
+            "sharing": {
+                "title": "Üçüncü taraflarla paylaşım",
+                "text": "Verilerinizi satmayız veya kiralamayız. Sadece siteyi işletmek için gerekli olduğunda ve gizlilik şartları altında hizmet sağlayıcılarla paylaşırız."
+            },
+            "retention": {
+                "title": "Verileri ne kadar saklıyoruz",
+                "text": "Kişisel verileri yalnızca burada açıklanan amaçlar için gerekli olduğu sürece veya yasal zorunluluklar gerektirdiği kadar saklarız."
+            },
+            "rights": {
+                "title": "Haklarınız",
+                "items": {
+                    "access": "Verilerinize erişim",
+                    "correction": "Yanlış verilerin düzeltilmesi",
+                    "deletion": "Verilerinizin silinmesi",
+                    "objection": "İşlemeye itiraz",
+                    "portability": "Veri taşınabilirliği"
+                }
+            },
+            "contact": {
+                "title": "İletişim",
+                "text": "Gizlilikle ilgili sorularınız veya haklarınızı kullanmak için info@andaphilosophy.com adresinden bize ulaşabilirsiniz."
+            }
+        },
+        "lastUpdated": "Son güncelleme: Aralık 2025"
+    },
+    "cookies": {
+        "metaTitle": "Çerez Politikası",
+        "metaDescription": "Anda Vakfı web sitesinin hangi çerezleri kullandığı, bunların ne işe yaradığı ve onları nasıl yönetebileceğiniz veya reddedebileceğiniz.",
+        "title": "Çerez Politikası",
+        "intro": "Bu web sitesi, düzgün çalışması ve kullanımını anlamak için çerezler kullanır.",
+        "sections": {
+            "whatAreCookies": {
+                "title": "Çerezler nedir?",
+                "text": "Çerezler, bir siteyi ziyaret ettiğinizde cihazınıza kaydedilen küçük metin dosyalarıdır. Tercihleri hatırlamaya ve performansı artırmaya yardımcı olurlar."
+            },
+            "whichCookies": {
+                "title": "Hangi çerezleri kullanıyoruz",
+                "items": {
+                    "necessary": {
+                        "title": "Gerekli çerezler",
+                        "text": "Dil seçimi ve gezinme gibi temel işlevler için zorunludur."
+                    },
+                    "analytics": {
+                        "title": "Analitik çerezler",
+                        "text": "Trafiği ölçer ve siteyi geliştirmemize yardımcı olur. Sadece analizleri etkinleştirdiğimizde yerleştirilir."
+                    }
+                }
+            },
+            "manage": {
+                "title": "Çerezleri yönetme",
+                "text": "Tarayıcı ayarlarınızdan çerezleri silebilir veya engelleyebilirsiniz. Gerekli çerezleri devre dışı bırakmak site işlevlerini etkileyebilir."
+            }
+        },
+        "lastUpdated": "Son güncelleme: Aralık 2025"
+    },
+    "disclaimer": {
+        "metaTitle": "Sorumluluk Reddi",
+        "metaDescription": "Anda Vakfı web sitesinin kullanım koşulları: yalnızca felsefi amaçlı bilgi, profesyonel tavsiye değildir ve sorumluluk sınırlıdır.",
+        "title": "Sorumluluk Reddi",
+        "intro": "Bu sitedeki bilgileri doğru ve güncel tutmaya çalışıyoruz. Ancak her zaman eksiksizlik veya doğruluk garantisi veremeyiz.",
+        "sections": {
+            "noAdvice": {
+                "title": "Profesyonel tavsiye değildir",
+                "text": "Bu sitedeki içerik yalnızca bilgilendirme ve felsefi amaçlıdır; hukuki, tıbbi veya finansal danışmanlık yerine geçmez."
+            },
+            "liability": {
+                "title": "Sorumluluğun sınırlandırılması",
+                "text": "Anda Vakfı, bu web sitesinin veya sunulan bilgilerin kullanımı sonucu oluşabilecek doğrudan ya da dolaylı zararlardan sorumlu değildir."
+            },
+            "externalLinks": {
+                "title": "Harici bağlantılar",
+                "text": "Sitemiz dış sitelere bağlantılar içerebilir. Bu sitelerin içeriğinden veya gizlilik uygulamalarından sorumlu değiliz."
+            },
+            "ip": {
+                "title": "Fikri mülkiyet",
+                "text": "Aksi belirtilmedikçe tüm içerik Anda Vakfı’na aittir ve izinsiz çoğaltılamaz."
+            },
+            "contact": {
+                "title": "İletişim",
+                "text": "Bu sorumluluk reddiyle ilgili sorularınızı info@andaphilosophy.com adresine gönderebilirsiniz."
+            }
+        },
+        "lastUpdated": "Son güncelleme: Aralık 2025"
+    },
+    "book": {
+        "title": "Anda – Sonsuz Gökyüzü Felsefesi",
+        "subtitle": "Anda’nın temel kitabı",
+        "author": "Merthan Tukus",
+        "year": "2025",
+        "short": "Mesaj, sütunlar ve yemini içeren kitabın tamamı.",
+        "long": "Mesajı, altı sütunu ve yemini içeren Anda’nın temel kitabı. Bu sayfada bir tomar gibi okuyun ya da internet olmadan da açılan tek bir HTML dosyası olarak indirin.",
+        "fileName": "anda-temel-kitap.html",
+        "open": "Kitabı oku",
+        "download": "HTML olarak indir",
+        "close": "Kapat",
+        "contents": "İçindekiler",
+        "pillars": "Altı Sütun",
+        "oath": "And",
+        "colophon": "Anda Vakfı, andaphilosophy.com"
+    },
+    "steppe": {
+        "title": "Bozkırın Çağrısı",
+        "subtitle": "I ile V. Bölümler",
+        "author": "Merthan Tukus",
+        "year": "2026",
+        "short": "Gökyüzüne bir soru soran genç bir göçebe olan Koru’nun hikâyesi.",
+        "long": "Bozkırın Çağrısı’nın ilk beş bölümü, hâlâ yazılmakta olan bir hikâye: Yel boyundan genç bir göçebe olan Koru, doğuyu gösteren bir pusulayla bozkırdan ayrılır ve Sessiz Çanlar Dağı’na doğru yoluna devam eder. Bu sayfada bir tomar gibi okuyun ya da tek bir HTML dosyası olarak indirin.",
+        "fileName": "bozkirin-cagrisi.html",
+        "open": "Kitabı oku",
+        "englishOnly": "Bu kitap şimdilik yalnızca İngilizce olarak mevcuttur."
+    },
+    "ands": {
+        "metaTitle": "Ands, taşa kazınmış andlar",
+        "metaDescription": "Ands, Sonsuz Gökyüzü altında içilmiş andlardır; her biri kendi taşına kazınmıştır. Anda Vakfı onları tek tek dikiyor.",
+        "title": "Ands",
+        "intro": "Sonsuz Gökyüzü altında içilmiş andlar, her biri kendi taşına kazınmış. Bir taştan ötekine geçin.",
+        "previous": "Önceki taş",
+        "next": "Sonraki taş",
+        "counter": "{current} / {total}",
+        "stones": "Taşlar",
+        "goTo": "{number}. taşa git",
+        "untitled": "And {ordinal}"
+    },
+    "poems": {
+        "metaTitle": "Şiirler, kısa şiirler ve düşünceler",
+        "metaDescription": "Sonsuz Gökyüzü altında yazılmış kısa şiirler ve düşünceler. Anda Vakfı bunları Türkçe, İngilizce ve Felemenkçe yayımlar.",
+        "title": "Şiirler",
+        "intro": "Sonsuz Gökyüzünün altında yazılmış kısa şiirler ve düşünceler. Onları tek tek okuyun ya da bir ay veya bir dil seçin.",
+        "eyebrow": "Şiirler",
+        "previous": "Önceki",
+        "next": "Sonraki",
+        "counter": "{current} / {total}",
+        "openIndex": "Listeyi göster",
+        "closeIndex": "Listeyi gizle",
+        "allMonths": "Tüm aylar",
+        "allLanguages": "Tüm diller",
+        "language": {
+            "en": "İngilizce",
+            "nl": "Felemenkçe",
+            "tr": "Türkçe"
+        },
+        "empty": "Bu seçime uyan bir şiir yok.",
+        "untitled": "Şiir {ordinal}"
+    },
+    "diepte": {
+        "metaTitle": "Andaizm, eksiksiz başvuru metni",
+        "metaDescription": "Andaizm, Anda Vakfı’nın eksiksiz başvuru metnidir: Sonsuz Gökyüzünün Felsefesi bölüm bölüm, tek bir uzun metinde anlatılır.",
+        "pageTitle": "Andaizm",
+        "subtitle": "Eksiksiz başvuru metni",
+        "readingTime": "{minutes} dk okuma",
+        "contents": "İçindekiler",
+        "backToTop": "Başa dön",
+        "englishOnly": "Bu metin şimdilik yalnızca İngilizce olarak mevcuttur.",
+        "seeAlso": "Ayrıca bakınız",
+        "figures": {
+            "skyyurt": "Bir Skyyurt konsept çizimi"
+        },
+        "infobox": {
+            "imageAlt": "Anda logosu",
+            "type": {
+                "label": "Tür",
+                "value": "Modern dini ve felsefi gelenek"
+            },
+            "founded": {
+                "label": "Kuruluş",
+                "value": "2024, Delft, Hollanda"
+            },
+            "founder": {
+                "label": "Kurucu",
+                "value": "Merthan Tukuş"
+            },
+            "origin": {
+                "label": "Kültürel arka plan",
+                "value": "Hollanda ve Türk kültürleri"
+            },
+            "centralConcept": {
+                "label": "Temel kavram",
+                "value": "Mengü, Sonsuz Gökyüzü"
+            },
+            "texts": {
+                "label": "Metinler",
+                "value": "Ands; ana And"
+            },
+            "pillars": {
+                "label": "Sütunlar",
+                "value": "Altı"
+            },
+            "aim": {
+                "label": "Temel amaç",
+                "value": "Sonsuz olmak"
+            },
+            "followers": {
+                "label": "Bağlılar",
+                "value": "Anda"
+            },
+            "leaders": {
+                "label": "Manevi önderler",
+                "value": "Onba"
+            },
+            "prayerHouse": {
+                "label": "İbadet evi",
+                "value": "Gökevi (Gök Evi)"
+            },
+            "sacredDay": {
+                "label": "Kutsal gün",
+                "value": "Cuma"
+            },
+            "greeting": {
+                "label": "Selam",
+                "value": "Esen"
+            },
+            "influences": {
+                "label": "Etkiler",
+                "value": "Tengricilik, Stoacılık, varoluşçuluk, agnostisizm, buşido, kintsugi, tasavvuf, Alevilik"
+            },
+            "slogan": {
+                "label": "Slogan",
+                "value": "Haydi yaşayalım!"
+            }
+        }
+    },
+    "seo": {
+        "siteName": "Anda Vakfı",
+        "homeDescription": "Anda Vakfı, Sonsuz Gökyüzünün Felsefesini paylaşır: düşünceye, bağa ve doğaya saygıya dayanan, herkese açık bir yol.",
+        "ogImageAlt": "Anda logosu: krem rengi zemin üzerinde mavi çizgilerle çizilmiş bir yurt"
+    },
+    "notFound": {
+        "title": "Sayfa bulunamadı",
+        "heading": "Bu sayfayı bulamadık",
+        "description": "Adres yanlış yazılmış ya da sayfa taşınmış olabilir. Ana sayfaya dönün veya bize ulaşın, aradığınızı bulmanıza yardımcı olalım.",
+        "backHome": "Ana sayfaya dön",
+        "contact": "Bize ulaşın"
+    }
+}
