@@ -1,0 +1,310 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --delft-primary: 26 63 139;
+  --delft-ink: 11 27 51;
+  --delft-porcelain: 247 243 236;
+  --delft-accent: 242 193 98;
+  --delft-blush: 212 140 122;
+  --delft-sky-deep: 15 42 76;
+  --delft-sky-mid: 29 75 133;
+  --delft-sky-light: 62 115 185;
+  --delft-glow: rgba(26, 63, 139, 0.35);
+  --max-width: 1100px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-body), "Gill Sans", "Trebuchet MS", sans-serif;
+    background-color: rgb(var(--delft-porcelain));
+    color: rgb(var(--delft-ink));
+    line-height: 1.75;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display), "Georgia", serif;
+    letter-spacing: -0.01em;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .animate-scroll {
+    animation: scroll var(--animation-duration, 40s) var(--animation-direction, forwards) linear infinite;
+  }
+
+  .bg-delft-gradient {
+    background-color: rgb(var(--delft-porcelain));
+    background-image:
+      radial-gradient(circle at 20% 20%, rgb(var(--delft-primary) / 0.16), transparent 45%),
+      radial-gradient(circle at 85% 15%, rgb(var(--delft-accent) / 0.25), transparent 40%),
+      linear-gradient(130deg, rgb(var(--delft-primary) / 0.12), rgb(var(--delft-porcelain) / 0.9) 55%, rgb(var(--delft-blush) / 0.18));
+  }
+
+  .bg-van-gogh-sky {
+    background-color: rgb(var(--delft-sky-deep));
+    background-image:
+      radial-gradient(circle at 10% 20%, rgb(var(--delft-sky-light) / 0.65), transparent 55%),
+      radial-gradient(circle at 75% 10%, rgb(var(--delft-accent) / 0.55), transparent 45%),
+      radial-gradient(circle at 80% 75%, rgb(var(--delft-blush) / 0.35), transparent 50%),
+      linear-gradient(160deg, rgb(var(--delft-sky-deep)) 0%, rgb(var(--delft-sky-mid)) 40%, rgb(var(--delft-sky-light)) 70%, rgb(var(--delft-porcelain)) 110%);
+  }
+
+  .bg-porcelain-paper {
+    background-color: rgb(var(--delft-porcelain));
+    background-image:
+      radial-gradient(circle at 15% 15%, rgb(var(--delft-primary) / 0.08), transparent 40%),
+      radial-gradient(circle at 80% 10%, rgb(var(--delft-accent) / 0.12), transparent 40%),
+      linear-gradient(120deg, rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0) 65%);
+  }
+
+  .bg-ink-wash {
+    background-color: rgb(var(--delft-ink));
+    background-image:
+      radial-gradient(circle at 20% 20%, rgb(var(--delft-sky-light) / 0.35), transparent 45%),
+      radial-gradient(circle at 80% 30%, rgb(var(--delft-accent) / 0.25), transparent 50%),
+      linear-gradient(160deg, rgb(var(--delft-ink)) 0%, rgb(var(--delft-sky-deep) / 0.95) 55%, rgb(var(--delft-sky-mid) / 0.9) 100%);
+  }
+
+  /* The closing stretch of the home page is one sky read from day into
+     night. The three stretches meet on the same colour (sky-light, then
+     sky-deep) and the night ends on plain ink, the colour the footer starts
+     from, so no band edge shows between them. */
+  .bg-sky-day {
+    background-color: rgb(var(--delft-porcelain));
+    background-image:
+      linear-gradient(180deg, rgb(var(--delft-porcelain)) 0%, rgb(var(--delft-porcelain)) 45%, rgb(var(--delft-primary) / 0.1) 62%, rgb(var(--delft-sky-light) / 0.75) 88%, rgb(var(--delft-sky-light)) 100%);
+  }
+
+  .bg-sky-dusk {
+    background-color: rgb(var(--delft-sky-mid));
+    background-image:
+      radial-gradient(ellipse 34% 42% at 28% 50%, rgb(var(--delft-accent) / 0.38), transparent),
+      radial-gradient(ellipse 30% 30% at 82% 55%, rgb(var(--delft-blush) / 0.2), transparent),
+      linear-gradient(180deg, rgb(var(--delft-sky-light)) 0%, rgb(var(--delft-sky-mid)) 45%, rgb(var(--delft-sky-deep)) 100%);
+  }
+
+  .bg-sky-night {
+    background-color: rgb(var(--delft-ink));
+    background-image: linear-gradient(180deg, rgb(var(--delft-sky-deep)) 0%, rgb(var(--delft-ink)) 100%);
+  }
+
+  /* Lets a painting dissolve into the sky behind it instead of sitting on it
+     as a framed tile. */
+  .mask-sky-fade {
+    -webkit-mask-image: radial-gradient(closest-side, #000 45%, transparent 100%);
+    mask-image: radial-gradient(closest-side, #000 45%, transparent 100%);
+  }
+
+  .bg-brush-texture {
+    background-image:
+      repeating-linear-gradient(115deg, rgb(var(--delft-ink) / 0.06) 0px, rgb(var(--delft-ink) / 0.06) 1px, transparent 1px, transparent 9px),
+      repeating-linear-gradient(25deg, rgb(var(--delft-accent) / 0.08) 0px, rgb(var(--delft-accent) / 0.08) 2px, transparent 2px, transparent 12px);
+    mix-blend-mode: multiply;
+  }
+
+  .animate-brush-float {
+    animation: brush-float 12s ease-in-out infinite;
+  }
+
+  .animate-brush-drift {
+    animation: brush-drift 18s ease-in-out infinite;
+  }
+
+  .animate-brush-glow {
+    animation: brush-glow 10s ease-in-out infinite;
+  }
+
+  /* The home hero's entrance. `both` holds the first frame through the delay,
+     so a line never shows before it rises. Visitors who ask for less motion get
+     `motion-reduce:animate-none` on the element and see the final state. */
+  .animate-rise {
+    animation: rise 700ms ease-out both;
+  }
+
+  /* For the LCP heading: it slides but never starts transparent, because a
+     text at opacity 0 is not painted and would push the LCP back. */
+  .animate-rise-visible {
+    animation: rise-visible 700ms ease-out both;
+  }
+
+  .animate-nav-in {
+    animation: nav-in 160ms ease-out;
+  }
+
+  .animate-nav-out {
+    animation: nav-out 120ms ease-in forwards;
+  }
+}
+
+@keyframes nav-in {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes nav-out {
+  from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+}
+
+/* The header panels appear and leave without motion for visitors who ask for
+   less. The header itself applies these classes through motion-safe:, because
+   Tailwind emits its variant rules after this block. */
+@media (prefers-reduced-motion: reduce) {
+  .animate-nav-in,
+  .animate-nav-out {
+    animation: none;
+  }
+}
+
+@keyframes scroll {
+  to {
+    transform: translate(calc(-50% - 0.5rem));
+  }
+}
+
+@keyframes brush-float {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  50% {
+    transform: translate3d(0, -12px, 0) scale(1.02);
+  }
+}
+
+@keyframes brush-drift {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0) rotate(0deg);
+  }
+  50% {
+    transform: translate3d(18px, -10px, 0) rotate(3deg);
+  }
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes rise-visible {
+  from {
+    transform: translateY(20px);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+@keyframes brush-glow {
+  0%,
+  100% {
+    opacity: 0.55;
+  }
+  50% {
+    opacity: 0.85;
+  }
+}
+
+/* Static starfield - spread across entire top area */
+.stars-container {
+  background-image:
+    /* Left side stars */
+    radial-gradient(circle, white 20%, transparent 70%) ,
+    radial-gradient(circle, white 20%, transparent 70%) ,
+    radial-gradient(circle, white 20%, transparent 70%) ,
+    radial-gradient(circle, white 15%, transparent 60%) ,
+    radial-gradient(circle, white 20%, transparent 70%) ,
+    radial-gradient(circle, white 15%, transparent 60%) ,
+    radial-gradient(circle, white 20%, transparent 70%) ,
+    radial-gradient(circle, white 15%, transparent 60%) ,
+    /* Center stars */
+    radial-gradient(circle, white 20%, transparent 70%) ,
+    radial-gradient(circle, white 20%, transparent 70%) ,
+    radial-gradient(circle, white 20%, transparent 70%) ,
+    radial-gradient(circle, white 15%, transparent 60%) ,
+    radial-gradient(circle, white 20%, transparent 70%) ,
+    radial-gradient(circle, white 15%, transparent 60%) ,
+    radial-gradient(circle, white 20%, transparent 70%) ,
+    radial-gradient(circle, white 15%, transparent 60%) ,
+    radial-gradient(circle, white 20%, transparent 70%) ,
+    /* Right side stars */
+    radial-gradient(circle, white 20%, transparent 70%) ,
+    radial-gradient(circle, white 20%, transparent 70%) ,
+    radial-gradient(circle, white 20%, transparent 70%) ,
+    radial-gradient(circle, white 15%, transparent 60%) ,
+    radial-gradient(circle, white 20%, transparent 70%) ,
+    radial-gradient(circle, white 15%, transparent 60%) ,
+    radial-gradient(circle, white 20%, transparent 70%) ,
+    radial-gradient(circle, white 15%, transparent 60%) ,
+    radial-gradient(circle, white 20%, transparent 70%) ,
+    /* Additional scattered stars */
+    radial-gradient(circle, white 15%, transparent 60%) ,
+    radial-gradient(circle, white 15%, transparent 60%) ,
+    radial-gradient(circle, white 15%, transparent 60%) ,
+    radial-gradient(circle, white 15%, transparent 60%) ,
+    radial-gradient(circle, white 20%, transparent 70%) ,
+    radial-gradient(circle, white 15%, transparent 60%) ,
+    radial-gradient(circle, white 20%, transparent 70%) ,
+    radial-gradient(circle, white 15%, transparent 60%) ;
+  background-position:
+    /* Left side stars */
+    5% 8%, 12% 15%, 8% 22%, 15% 5%, 3% 18%, 18% 12%, 10% 28%, 6% 35%,
+    /* Center stars */
+    45% 6%, 50% 12%, 42% 18%, 48% 3%, 52% 22%, 38% 14%, 55% 8%, 43% 25%, 47% 30%,
+    /* Right side stars */
+    85% 10%, 92% 18%, 88% 5%, 95% 14%, 82% 22%, 90% 28%, 78% 12%, 87% 32%, 93% 8%,
+    /* Additional scattered stars */
+    25% 20%, 35% 8%, 65% 15%, 72% 25%, 28% 30%, 62% 28%, 70% 6%, 20% 10%;
+  background-size:
+    /* Left side stars */
+    4px 4px, 4px 4px, 4px 4px, 3px 3px, 4px 4px, 3px 3px, 4px 4px, 3px 3px,
+    /* Center stars */
+    4px 4px, 4px 4px, 4px 4px, 3px 3px, 4px 4px, 3px 3px, 4px 4px, 3px 3px, 4px 4px,
+    /* Right side stars */
+    4px 4px, 4px 4px, 4px 4px, 3px 3px, 4px 4px, 3px 3px, 4px 4px, 3px 3px, 4px 4px,
+    /* Additional scattered stars */
+    3px 3px, 3px 3px, 3px 3px, 3px 3px, 4px 4px, 3px 3px, 4px 4px, 3px 3px;
+  background-repeat: no-repeat;
+  filter: drop-shadow(0 0 2px rgba(255,255,255,0.8));
+}

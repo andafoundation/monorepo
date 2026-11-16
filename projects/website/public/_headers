@@ -1,0 +1,4 @@
+# Applied by Cloudflare Workers static assets (OpenNext); inert under `next start`.
+# Build output under /_next/static/ has content-hashed names, so it never changes.
+/_next/static/*
+  Cache-Control: public,max-age=31536000,immutable

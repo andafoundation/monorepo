@@ -1,0 +1,12 @@
+/* TEAM */
+Organization: Stichting Anda
+Founder: Merthan Tukuş
+Contact: info@andaphilosophy.com
+Location: Delft, NL
+Site built by: Sensey (sensey.io)
+
+/* SITE */
+Languages: Dutch, English, Turkish, Russian
+Standards: HTML5, CSS3, TypeScript
+Components: Next.js, React, next-intl, Tailwind CSS
+Hosting: Cloudflare Workers

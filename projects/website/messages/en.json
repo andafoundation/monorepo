@@ -1,0 +1,651 @@
+{
+  "nav": {
+    "home": "Home",
+    "message": "Message",
+    "pillars": "Pillars",
+    "oath": "Oath",
+    "ands": "Ands",
+    "poems": "Poems",
+    "depth": "Depth",
+    "book": "Books",
+    "statutes": "Statutes",
+    "annualReports": "Annual reports",
+    "bankStatements": "Bank statements",
+    "openness": "Openness",
+    "skyyurt": "Skyhaven",
+    "contact": "Contact",
+    "connect": "Connect",
+    "menuLabel": "Main navigation",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "groups": {
+      "leer": "Teaching",
+      "teksten": "Texts",
+      "stichting": "Foundation"
+    },
+    "descriptions": {
+      "message": "The heart of it in a few sentences",
+      "pillars": "The six pillars of the path",
+      "oath": "The promise that seals the path",
+      "depth": "The full reference article",
+      "ands": "Oaths carved in stone",
+      "poems": "Poems and wisdoms",
+      "book": "Core literature and stories",
+      "statutes": "The statutes of the Anda Foundation",
+      "annualReports": "Annual accounts and policy plan",
+      "bankStatements": "Every transaction in the open",
+      "openness": "Why we publish everything"
+    }
+  },
+  "home": {
+    "metaTitle": "The Philosophy of the Eternal Sky",
+    "metaDescription": "Anda Foundation in Delft shares the Philosophy of the Eternal Sky: six pillars, an oath, short poems and a free book on honesty and nature.",
+    "hero": {
+      "title": "Anda Foundation",
+      "subtitle": "The Philosophy of the Eternal Sky",
+      "description": "A path guided by oaths, honor, determination, and the courage to begin again.",
+      "cta": "Discover the message"
+    },
+    "about": {
+      "title": "What is Anda?",
+      "paragraph1": "Anda is a life philosophy that finds its origins in the ancient traditions of the steppe. The word \"anda\" means \"oath\" or \"covenant\" and symbolized deep loyalty, often stronger than blood ties. In modern times, Anda offers a new perspective: a covenant with yourself, an inner promise to live with courage, uncertainty, compassion, and reverence for nature.",
+      "paragraph2": "The Anda Foundation aims to spread and materialize this philosophy. Not as dogma, but as an invitation to dialogue, reflection, and community building. We build bridges between tradition and modernity, between spirituality and science, between nature and humanity.",
+      "cta": "Read the Six Pillars",
+      "imageAlt": "The Anda yurt mark"
+    },
+    "pillars": {
+      "title": "The Six Pillars of Anda",
+      "intro": "The core of the Anda philosophy rests on six pillars. Together they form a compass for an honest, courageous, and connected life.",
+      "cta": "Explore the Pillars",
+      "pillar1": {
+        "title": "Nomadism",
+        "description": "Always in motion, physically and mentally. A nomad continues to learn, discover, and renew."
+      },
+      "pillar2": {
+        "title": "A Straight Back",
+        "description": "Honesty, courage, and sportsmanship as guidance, inspired by the discipline of the samurai."
+      },
+      "pillar3": {
+        "title": "Infinity",
+        "description": "The Eternal Sky as a symbol of connection and spirituality."
+      },
+      "pillar4": {
+        "title": "Uncertainty",
+        "description": "Recognition that there are no absolute truths. Learning to live with our own uncertainties and broader uncertainty."
+      },
+      "pillar5": {
+        "title": "Reverence for Nature",
+        "description": "Nature as a sanctuary and mirror of our inner life. Reverence brings connection."
+      },
+      "pillar6": {
+        "title": "Intention",
+        "description": "Imperfections make us unique. Like cracks in a vase repaired with gold, scars are part of beauty. No one can be the ideal human being, it's about the intention."
+      }
+    },
+    "sky": {
+      "title": "Under the Eternal Sky",
+      "quote": "We are not superior, not inferior. We are who we are. One with the Eternal Sky.",
+      "description": "Anda invites you to acknowledge uncertainty, honor nature, and embrace imperfections as part of who you are. The Eternal Sky is a metaphor for infinity, for diversity and connection.",
+      "cta": "Read the Oath"
+    },
+    "skyyurt": {
+      "title": "Skyyurts & Skystones",
+      "paragraph1": "The Skyyurt is a space of silence and connection, inspired by the simplistic lifestyle of the steppe peoples. Here people come together for meditation, dialogue, and drinking a cup of warm tea. Among countless warm carpets.",
+      "paragraph2": "Skystones are stone pillars with inscriptions that remind us of universal values such as courage, compassion, honesty, and reverence for nature. Together they form physical symbols of the Anda philosophy.",
+      "cta": "Discover more"
+    },
+    "mission": {
+      "title": "Mission & Vision",
+      "paragraph1": "The Anda Foundation aims to build communities grounded in honor, honesty, compassion, and mutual support. Through Ands, we encourage people to live with purpose, take responsibility, and remain true to their oaths, even after failure.",
+      "paragraph2": "Our vision is a more equal world where people live with honor, embrace uncertainty, respect nature, and stand by their oaths. A world where we support one another, learn from our failures, and continue moving forward."
+    },
+    "downloadCta": {
+      "title": "Download the complete PDF",
+      "description": "Do you want to read the Anda philosophy in its entirety? Download the complete document here, including message, pillars, and statutes.",
+      "cta": "Download PDF"
+    },
+    "contactCta": {
+      "title": "Get in touch",
+      "description": "Do you have questions, want to collaborate, or learn more about our activities? Feel free to contact us via",
+      "cta": "Connect"
+    }
+  },
+  "footer": {
+    "foundationName": "Anda Foundation",
+    "shortMission": "A non-profit foundation devoted to dialogue, reflection, and reverence for nature under the Eternal Sky.",
+    "anbiLine": "ANBI status – non-profit foundation",
+    "contactTitle": "Contact & Legal",
+    "address": {
+      "line1": "Rotterdamsweg 183C",
+      "line2": "2629 HD Delft",
+      "line3": "South Holland, Netherlands"
+    },
+    "emailLabel": "E-mail",
+    "email": "info@andaphilosophy.com",
+    "phoneLabel": "Phone",
+    "phone": "+31 (0)15 – 123 4567",
+    "kvk": "91234567",
+    "rsin": "876543210",
+    "iban": "NL12BANK3456789012",
+    "bic": "BANKNL2A",
+    "privacy": "Privacy",
+    "cookies": "Cookies",
+    "disclaimer": "Disclaimer",
+    "copyright": "© Anda Foundation"
+  },
+  "common": {
+    "readMore": "Read more",
+    "readLess": "Read less",
+    "downloadPdf": "Download (PDF)"
+  },
+  "boodschap": {
+    "metaTitle": "The Message of Anda",
+    "metaDescription": "The message of Anda: a covenant not with another, but with yourself. Anda Foundation explains the steppe tradition behind the oath.",
+    "title": "The Message of Anda",
+    "paragraph1": "On the ancient steppe, there exists a tradition. This tradition is called \"anda\".",
+    "paragraph2": "The word \"and\" means oath or vow in the languages of the steppe peoples. From this word, \"anda\" is derived: a covenant between two people who trusted each other so deeply that they swore to consider each other as brother or sister. Such bonds were forged only once in a lifetime and remained valid forever. They were often sealed with blood. Both persons cut into their palms with the blade of their sword and swore loyalty to each other.",
+    "paragraph3": "This philosophy, the Anda, is also a covenant.",
+    "paragraph4": "But not a covenant with another.",
+    "paragraph5": "But a covenant with yourself.",
+    "paragraph6": "A set of principles that are not necessarily the absolute truth – because part of this philosophy is precisely the recognition of uncertainty – but a collection of beliefs that you, somewhere deep in your heart, feel are right and for which you want to live.",
+    "paragraph7": "And perhaps, someday, will want to swear by."
+  },
+  "eed": {
+    "metaTitle": "The And, the Oath",
+    "metaDescription": "The And is the oath of Anda Foundation: vows to live as a nomad, with a straight back, at one with infinity and with reverence for nature.",
+    "title": "The And – The Oath",
+    "oath1": "I swear that I will be a nomad, my heart open to everyone.",
+    "oath2": "I swear that I will live with my eyes fixed on the Eternal Sky, shoulders straight, honorably, with a healthy body and a clear mind.",
+    "oath3": "I swear that I will become one with Infinity.",
+    "oath4": "I swear that I will learn to live with uncertainty.",
+    "oath5": "I swear that I will have reverence for nature and that I will leave the world greener.",
+    "oath6": "I swear that I will not hide my wrinkles and cracks, because this does not make me less, but only more.",
+    "oathFinal": "I swear it, I swear, I swear it."
+  },
+  "pilaren": {
+    "metaTitle": "The Six Pillars of Anda",
+    "metaDescription": "Nomadism, a straight back, infinity, uncertainty, reverence for nature and intention: the six pillars of Anda Foundation, each explained in full.",
+    "pageTitle": "The Six Pillars of Anda",
+    "pillar1": {
+      "title": "Pillar 1: Nomadism",
+      "short": "Not all who wander are lost. Not all who walk multiple paths have lost their way.",
+      "full": "Not all who wander are lost.\nNot all who walk multiple paths have lost their way.\nNot everyone who moves into another is losing themselves.\nA leader of Anda is a nomad, both in lifestyle and in ideology.\nA nomad is someone who opens their heart to different cultures, customs, countries, and people.\nA nomad is someone who does not stand still but continues to innovate and challenge themselves.\nA nomad is someone who can live on a piece of bread but can also enjoy a plate of delicious dishes.\nA nomad is someone whose heart beats faster when exploring new places.\nA nomad is someone who can be fully present in the now, even though they know this is very difficult.\nWe, as leaders of Anda, are nomads.\nWhen we stay in one place too long, our feet start to itch.\nThen we are asked to carve a new path for ourselves.\nWe are one with the Eternal Sky. And wherever the Eternal Sky is, there we are."
+    },
+    "pillar2": {
+      "title": "Pillar 2: A Straight Back",
+      "short": "Honesty. Your shoulders straight and your chest forward. Eyes on the Eternal Sky.",
+      "full": "Honesty.\nYour shoulders straight and your chest forward.\nEyes on the Eternal Sky.\nThat is the mantra of a leader of Anda.\nSomeone who acknowledges their insecurities and shortcomings.\nSomeone who tries to find peace with themselves.\nSomeone who does not help others to feel good about themselves, but to be stronger together.\nSomeone who dares to extend a helping hand to their family, neighbors, even people they dislike.\nSomeone who tries to be a good person, no matter what, despite their past and their sins.\nThis pillar is inspired by the philosophy of the samurai. They held their honor as their highest banner, their pride, and were even willing to commit harakiri (suicide) for this philosophy.\nLet this be completely clear: Anda absolutely and resolutely rejects the harakiri of Bushido. However, we take the other positive aspects of Bushido as inspiration. Hence this pillar bears the name \"Positive Bushido\".\nThese are the following values:\n\n1. Courage\n2. Honor\n3. Sportsmanship\n4. Honesty\n5. A healthy body and a strong mind"
+    },
+    "pillar3": {
+      "title": "Pillar 3: Infinity",
+      "short": "Earth is not the only planet. There are billions.",
+      "full": "Earth is not the only planet.\nThere are billions.\nThe Eternal Sky is not seen by leaders of Anda as a God or person, but as an energy: an infinity of thoughts, planets, ideas, people, and nature.\nIn moments of stress and negativity, we do not try to keep these thoughts at a distance, but to acknowledge, illuminate, understand them – to become one.\nWhen we make music, sing, we become one with the people you hate, despise – we become one with love, peace, and infinity.\nJust as a hand has multiple fingers, a leader of Anda believes that people can reach this Infinity, this Eternal Sky, in multiple ways.\nThis can be by believing in a God or Gods, with different religions, ideas, philosophies, or not believing in a God at all.\nWe, as leaders of Anda, are not superior, but we are also not inferior.\nWe are who we are,\nOne with the Eternal Sky.\nOne with people of different origins, blood, color, or descent.\nOur heart is open to everyone who also opens their own heart."
+    },
+    "pillar4": {
+      "title": "Pillar 4: Uncertainty",
+      "short": "This world, our lives, could be a simulation in the game of a God.",
+      "full": "Our thoughts could be part of a dream. The planets, stars, and universe could be an illusion. Everything we understand about existence may be incomplete, mistaken, or entirely different from what we imagine. Even the origins of existence may lie beyond anything the human mind can comprehend.\n\nMengü, the Eternal Sky, represents the infinity beyond our understanding. Yet Andaism acknowledges that even Mengü may not exist as we imagine it. The Eternal Sky could be an illusion, a human invention, a shared fantasy, or something entirely different from what we believe. Even the sacred center of Andaism is not exempt from uncertainty.\n\nAn Anda may choose to believe in Mengü, but must never confuse that belief with absolute knowledge. No religion, philosophy, or ideology can conclusively eliminate every possibility of uncertainty about the ultimate nature of existence.\n\nThis is one of the central teachings of Andaism: we do not follow Mengü because we know with certainty that Mengü is real. We follow Mengü because the Eternal Sky gives us a way to approach the unknown, find meaning in existence, and live more peacefully within it.\n\nAnds is our chosen path beneath that uncertainty. Through our oaths, we strive to grow closer to Mengü and to become endless, not by discovering every answer, but by learning to live without needing them all.\n\nAcknowledging uncertainty does not make us weaker. Nor does it necessarily make us stronger. We simply recognize it for what it is, without shame, fear, or the need to disguise belief as knowledge.\n\nEven if Mengü were nothing more than a human dream, the life we live beneath that dream would remain real to us. And that life is worth living fully."
+    },
+    "pillar5": {
+      "title": "Pillar 5: Reverence for Nature",
+      "short": "Touching a tree and closing your eyes, isn't that weird? Not for a leader of Anda.",
+      "full": "We are part of nature, and nature is part of us.\nWalking in nature is preferably done alone.\nLittle sound, little distraction.\nJust you, nature, and the Eternal Sky.\nNature will not be a healer of all your problems and rampant thoughts.\nThat is also something a person of Anda learns to acknowledge.\nNature is like a sanctuary. Sometimes you do not find the comfort you came searching for, and it will sometimes confront you with the very thoughts you wished to escape, but that too is part of its sacred wisdom, and it always remains a place to return to. There you can let your thoughts and your soul run free and you learn to know yourself better.\nA leader of Anda likes to plant trees, maintain their garden, constantly spread seeds of plants and trees, learn about nature, and explore ways to survive in the wild.\nBecause we are one."
+    },
+    "pillar6": {
+      "title": "Pillar 6: Intention",
+      "short": "Imperfections make us unique. Like cracks in a vase repaired with gold, scars are part of beauty. No one can be the ideal human being, it's about the intention.",
+      "full": "This last pillar is based on the principles of Kintsugi. The leaders of Anda understand that imperfection is part of life.\nA leader of Anda does not strive for perfection but understands that perfection only exists in utopias and stories. A leader of Anda will never reach nirvana by following these pillars. On the contrary, they will often have difficulty executing certain pillars or may forget certain principles.\nSometimes they get distracted by other matters – temptations or desires – things they don't actually stand for.\nHowever, we understand as leaders of Anda that this is part of imperfection.\nJust as a pimple or disability does not make someone ugly – we learn to look beneath the layers, to smile – deeper into the soul.\nWe extend a hand to people, regardless of what profession they practice, to better understand them and follow a path together.\nSimilar principles are taught by Kintsugi. It is an ancient art form in which imperfections are celebrated: the cracks in a vase are seen as part of the object's history, rather than something that must be hidden."
+    }
+  },
+  "statuten": {
+    "metaTitle": "Statutes",
+    "metaDescription": "The statutes of Anda Foundation: its name and seat, purpose, means, assets, board, annual accounts, policy plan and dissolution.",
+    "pageTitle": "Statutes of Anda Foundation",
+    "subtitle": "The Philosophy of the Eternal Sky",
+    "transparency": {
+      "title": "Transparency & Annual Reports",
+      "paragraph1": "Anda Foundation stands for honesty, clarity, and trust. Like the Bushido warrior who guards his honor, we publish our annual accounts, policy plan, statements, and bank transactions every year.",
+      "paragraph2": "We believe that only complete openness enables a sustainable and spiritual community. This way, everyone always knows how our resources are spent, in service of our mission and the Eternal Sky."
+    },
+    "article1": {
+      "title": "Article 1 – Name and Seat",
+      "content": "The foundation bears the name: Anda Foundation – The Philosophy of the Eternal Sky. It may also present itself under the shortened name Anda Foundation. The foundation has its seat in the municipality of Delft, Netherlands."
+    },
+    "article2": {
+      "title": "Article 2 – Purpose",
+      "intro": "The foundation aims to:",
+      "goals": [
+        "Promote philosophical, spiritual, cultural, and social research and dialogue, inspired by Anda.",
+        "Stimulate reflection on the relationship between humans, nature, and cosmos.",
+        "Contribute to communities where honesty, compassion, and connection are central.",
+        "Promote understanding of spiritual and philosophical diversity."
+      ],
+      "conclusion": "The foundation operates without profit motive and meets the requirements for ANBI status."
+    },
+    "article3": {
+      "title": "Article 3 – Means",
+      "intro": "The foundation seeks to achieve its goal through:",
+      "means": [
+        "Organizing lectures, conferences, retreats, and dialogues.",
+        "Publishing books, essays, podcasts, and artistic expressions.",
+        "Realizing and managing Skyyurts and Skystones.",
+        "Entering into collaborations with educational institutions and social organizations.",
+        "Raising funds, donations, legacies, and subsidies."
+      ]
+    },
+    "article4": {
+      "title": "Article 4 – Assets",
+      "content": "The foundation's assets are formed by subsidies, donations, gifts, inheritances, legacies, and proceeds from activities. All resources are used exclusively for the objectives. Board members receive no remuneration, only attendance fees and expense reimbursement."
+    },
+    "article5": {
+      "title": "Article 5 – Board",
+      "content": "The board consists of at least one person. Functions can be divided (chairman, secretary, treasurer). Appointments are for four years and renewable. The board guards the foundation's objectives and inspiration."
+    },
+    "article6": {
+      "title": "Article 6 – Representation",
+      "content": "The foundation is represented by the board collectively. For legal acts exceeding €25,000, approval from the entire board is required."
+    },
+    "article7": {
+      "title": "Article 7 – Meetings and Decision-making",
+      "content": "The board meets at least twice a year. Minutes are taken of each meeting. Decisions are made by majority vote."
+    },
+    "article8": {
+      "title": "Article 8 – Annual Accounts and Transparency",
+      "paragraph1": "The financial year coincides with the calendar year. Within six months, the board approves and signs the annual accounts. The foundation publicly publishes its annual accounts, policy plan, and statements.",
+      "paragraph2": "In addition, we also annually publish our bank transactions. We do this out of conviction that a foundation can only exist through honesty, clarity, and complete transparency – like a Bushido warrior guards his honor."
+    },
+    "article9": {
+      "title": "Article 9 – Policy Plan and Accountability",
+      "content": "Annually, the board establishes a policy plan with goals, activities, and budget. The foundation publicly accounts for activities and expenditure of resources."
+    },
+    "article10": {
+      "title": "Article 10 – Dissolution",
+      "content": "Dissolution can be decided by the board with a two-thirds majority. Any positive balance goes to an ANBI institution with similar objectives."
+    },
+    "article11": {
+      "title": "Article 11 – Final Provisions",
+      "content": "In cases not provided for in these statutes, the board decides. Changes are possible with a two-thirds majority."
+    }
+  },
+  "skyyurt": {
+    "metaTitle": "Skyyurt, Skystone and Nomad's Heart",
+    "metaDescription": "Skyhaven, the planned project of Anda Foundation: a Skyyurt for silence, a Skystone bearing the oath and the Nomad's Heart café, open to all by 2030.",
+    "heroTitle": "Skyyurt, Skystone & Nomad's Heart",
+    "heroDescription": "A future project of Anda Foundation. Planned for 2030 and made possible through support and donations.",
+    "introTitle": "Introduction",
+    "introParagraph1": "The Skyyurt, the Skystone, and the Nomad’s Heart café together form the Skyhaven project of Anda Foundation. This project does not yet exist, but it is our heartfelt intention and commitment to bring it to life in 2030 at a special place in the Netherlands.",
+    "introParagraph2": "With this initiative we want to create a free and welcoming space in nature: a meditation place where everyone is welcome — regardless of religion, worldview, or background — and where silence is not something you have to buy, but something you are invited to remember.",
+    "introParagraph3": "It will be a place to be with yourself for a while. To meet your thoughts and feelings gently, without judgment. A space to breathe, slow down, and reconnect with yourself and with nature.",
+    "skyyurtTitle": "The Skyyurt – Silence under the Eternal Sky",
+    "skyyurtParagraph": "The Skyyurt is inspired by the traditional round tents of steppe peoples. Its interior is fully covered with nomadic carpets and cushions. The space is open to all religions and worldviews, and is meant to be a public place of stillness in Dutch nature.",
+    "skyyurtFeature1": "No chairs — everyone sits equally in the circle.",
+    "skyyurtFeature2": "Shoes off, silence within.",
+    "skyyurtFeature3": "Maximum stay of 60 minutes per person.",
+    "skystoneTitle": "The Skystone – The And in Stone",
+    "skystoneParagraph": "Beside the Skyyurt rises the Skystone: a natural stone pillar about 2.5 meters high. The And — the Oath — will be engraved into it as a lasting symbol of loyalty, connection, and inner strength.",
+    "skystoneQuote": "I swear that I will be a nomad, my heart open to everyone…",
+    "nomadsHeartTitle": "Nomad's Heart – Warmth and Dialogue",
+    "nomadsHeartParagraph": "Where the Skyyurt brings silence and the Skystone anchors devotion, Nomad’s Heart offers warmth and encounter: a café for dialogue, philosophy, faith, and conversations about mental well-being.",
+    "nomadsHeartFeature1": "A safe space for mental and emotional challenges.",
+    "nomadsHeartFeature2": "Furnished like a living room with rugs, tea, and books.",
+    "nomadsHeartFeature3": "A bridge between inwardness and dialogue.",
+    "purposeTitle": "Why the Skyyurt exists",
+    "purposeIntro": "Anda Foundation is building something the Netherlands still largely lacks: a spiritual and meditative home in nature, open to everyone — without religious barriers, membership, or a price tag on silence.",
+    "purposePoint1Title": "Open spirituality, without a religious gate",
+    "purposePoint1Text": "A place for people of any belief — or none. No sacred language, no compulsory teaching, no single “right way.” Only room to be.",
+    "purposePoint2Title": "Safe and protected for all",
+    "purposePoint2Text": "Designed as a respectful, calm environment for women and men alike, where safety and dignity come first.",
+    "purposePoint3Title": "Silence and fire",
+    "purposePoint3Text": "Alongside stillness, there is warmth. We host evenings by the fire with music, stories, and singing — even if you’ve never sung before.",
+    "purposePoint4Title": "A cultural meeting place",
+    "purposePoint4Text": "A space where cultures and philosophies meet without one tradition dominating. Not a closed community; everyone is welcome with openness and respect.",
+    "purposePoint5Title": "Refuge from work and digital noise",
+    "purposePoint5Text": "In Nomad’s Heart you can read, sit quietly, or work on your laptop. There will be plugs and laptop-friendly spots where time is never a debt.",
+    "purposePoint6Title": "Home for poetry and meaning",
+    "purposePoint6Text": "A place to write and share in the footsteps of Rumi, Yunus Emre, Hadewijch, Thomas à Kempis, and other spiritual poets.",
+    "purposePoint7Title": "Body and mind together",
+    "purposePoint7Text": "Outdoor space for tai chi, yoga, breathwork, and a simple calisthenics gym — where inner peace and physical strength support each other.",
+    "purposePoint8Title": "Accessible by design",
+    "purposePoint8Text": "The Skyyurt is meant as a gift to society: low-threshold, donation-supported, and especially welcoming to those who often feel excluded from spiritual spaces.",
+    "purposeConclusion": "Ultimately, the Skyyurt is an invitation to slow down — to breathe again, listen inwardly, and reconnect with nature and community.",
+    "donationTitle": "🌿 Support Anda Foundation",
+    "donationParagraph": "The Skyyurt, Skystone, and Nomad’s Heart do not yet exist. These plans become reality thanks to donations and support. Every contribution brings us closer to the first realization in 2030.",
+    "donationButton": "Donate with iDEAL",
+    "donationComingSoon": "Donation functionality will be available soon!"
+  },
+  "boek": {
+    "metaTitle": "Books",
+    "metaDescription": "The books of Anda Foundation: the core book, The Philosophy of the Eternal Sky, and the story The Call of the Steppe. Free to read and download.",
+    "pageTitle": "Books",
+    "coreShelf": "Core Literature",
+    "storiesShelf": "Stories"
+  },
+  "jaarstukken": {
+    "metaTitle": "Annual reports",
+    "metaDescription": "The annual accounts and policy plans of Anda Foundation, published in full so everyone can see how the foundation works and spends its money.",
+    "pageTitle": "Annual reports",
+    "subtitle": "Annual accounts and policy plan of the Anda Foundation",
+    "intro": "Annual reports are the backbone of an honest foundation. In our annual accounts you will find our financial balance, income and expenses. In the policy plan you can read our goals, projects and the direction we want to take together. By publishing this every year, we show that we have no secrets about the way we function.",
+    "documentsTitle": "Documents",
+    "empty": "No documents yet. The first annual reports will appear here once the financial year has closed."
+  },
+  "bankafschriften": {
+    "metaTitle": "Bank statements",
+    "metaDescription": "Anda Foundation publishes its bank statements every year, so every donation, expense and transaction is open to everyone.",
+    "pageTitle": "Bank statements",
+    "subtitle": "Every transaction of the Anda Foundation in the open",
+    "intro": "Openness goes beyond annual figures alone. Anda Foundation also publishes annual bank statements, in which every transaction is visible. This shows:",
+    "point1": "Where our income comes from (donations, gifts, subsidies).",
+    "point2": "How we spend our money (projects, activities, social commitment).",
+    "point3": "That board members receive no remuneration, only attendance fees or expense reimbursement.",
+    "conclusion": "This choice is unusual, but fits our philosophy: honest and transparent, like a Bushido warrior guards his honor.",
+    "documentsTitle": "Statements",
+    "empty": "No statements yet. The first bank statements will appear here once the financial year has closed."
+  },
+  "openheid": {
+    "metaTitle": "Openness",
+    "metaDescription": "Why Anda Foundation publishes everything: statutes, annual reports, bank statements and plans, as an example of radical transparency.",
+    "pageTitle": "Openness",
+    "subtitle": "Why the Anda Foundation publishes everything",
+    "paragraph1": "In a world where foundations and organizations are often distrusted, Anda chooses radical transparency. We want to be an example: a foundation that has nothing to hide, but shows how it acts, in accordance with its values.",
+    "paragraph2": "Every euro you donate to us is visible in our bank statements. Every plan we make is described in our policy documents. Every idea we share is recorded in books and essays. This is our way of being faithful to our oath: honesty, courage, and compassion.",
+    "paragraph3": "Anda Foundation believes in openness, simplicity, and honesty. On the pages below you will find all documents that our foundation consciously and voluntarily makes public. We believe that true spirituality goes hand in hand with transparency: nothing behind closed doors, but visible and verifiable for everyone. This way, everyone can see with their own eyes how we work, where the money comes from, and how we spend it on our mission.",
+    "linksTitle": "Foundation documents"
+  },
+  "contact": {
+    "metaTitle": "Contact",
+    "metaDescription": "Contact Anda Foundation in Delft through the form or by e-mail. Ask a question, propose a partnership or join the dialogue under the Eternal Sky.",
+    "heroTitle": "Contact Anda Foundation",
+    "heroDescription": "A bridge between philosophy, community, and innovation. Reach us and become part of the dialogue under the Eternal Sky.",
+    "addressTitle": "Visiting and Correspondence Address",
+    "foundationName": "Anda Foundation",
+    "street": "Rotterdamsweg 183C",
+    "city": "2629 HD Delft",
+    "region": "South Holland, Netherlands",
+    "email": "info@andaphilosophy.com",
+    "phone": "+31 (0)15 – 123 4567",
+    "kvk": "91234567",
+    "rsin": "876543210",
+    "iban": "NL12BANK3456789012",
+    "bic": "BANKNL2A",
+    "aboutFoundationTitle": "About Anda Foundation",
+    "aboutFoundationParagraph1": "Anda Foundation is committed to translating the ancient Anda philosophy to modern society. From our home base in Delft, we build bridges between spirituality, science, art, and community.",
+    "aboutFoundationParagraph2": "We organize lectures, dialogues, cultural projects, and workshops that invite reflection and connection. Our mission is to create places of silence and encounter, where people come together to embrace uncertainty and cultivate reverence for nature.",
+    "approachTitle": "About our approach",
+    "approachParagraph1": "Our projects always grow from dialogue and collaboration. We believe that real change does not arise from theory alone, but from encounter and practice in daily life.",
+    "approachParagraph2": "From Delft, we work on initiatives that connect art, culture, and community. This ranges from intimate workshops to large-scale cultural projects, always with room for reflection and imagination.",
+    "approachParagraph3": "Our goal is to create places of inspiration and connection, where people learn together, discover new perspectives, and care for each other and nature.",
+    "partnershipsTitle": "Collaboration & Partnerships",
+    "partnershipsIntro": "We are always looking for partners who share our vision: universities, cultural institutions, spiritual centers, governments, and companies with a heart for sustainability, art, and humanity.",
+    "partnershipsArea1": "Education & Research: projects with students and academic partners.",
+    "partnershipsArea2": "Community: collaborations with local and international networks.",
+    "partnershipsArea3": "Art & Culture: exhibitions, performances, and creative projects.",
+    "partnershipsArea4": "Innovation: startups and enterprises that connect philosophy and technology.",
+    "partnershipsConclusion": "Contact us for an introductory meeting or an invitation to collaborate.",
+    "accessibilityTitle": "Accessibility",
+    "accessibilityIntro": "Our office and café are easily accessible by bike, public transport, and car. We invite visitors to travel as sustainably as possible.",
+    "accessibilityOption1": "Train: Delft Zuid Station (10 min walk)",
+    "accessibilityOption2": "Bus: Rotterdamseweg stop (2 min walk)",
+    "accessibilityOption3": "Car: Parking available (limited spaces)",
+    "formTitle": "Send us a message",
+    "formIntro": "Do you have a question, idea, or proposal? Fill out the form below and we will contact you soon.",
+    "formName": "Name",
+    "formNamePlaceholder": "Your full name",
+    "formEmail": "Email address",
+    "formEmailPlaceholder": "your@email.com",
+    "formSubject": "Subject",
+    "formSubjectPlaceholder": "Subject of your message",
+    "formMessage": "Message",
+    "formMessagePlaceholder": "Type your message here...",
+    "formSubmit": "📨 Send message",
+    "formSending": "Message is being sent...",
+    "formSuccess": "✅ Message sent! We will contact you soon."
+  },
+  "privacy": {
+    "metaTitle": "Privacy Policy",
+    "metaDescription": "How Anda Foundation handles personal data on this website: what it collects, why, how long it keeps it and which rights you have.",
+    "title": "Privacy Policy",
+    "intro": "We respect your privacy. This policy explains what data we collect, why we collect it, and what rights you have.",
+    "sections": {
+      "dataWeCollect": {
+        "title": "What data we collect",
+        "text": "When you contact us, we may collect your name, email address, and the content of your message. We do not collect sensitive personal data unless you share it voluntarily."
+      },
+      "whyWeUse": {
+        "title": "Why we use your data",
+        "text": "We only use your data to respond to your questions, manage communication, and improve our services."
+      },
+      "sharing": {
+        "title": "Sharing with third parties",
+        "text": "We do not sell or rent your data. We only share data with service providers if necessary to run this website, and only under strict confidentiality."
+      },
+      "retention": {
+        "title": "How long we keep data",
+        "text": "We keep personal data only as long as needed for the purposes described above, or to comply with legal obligations."
+      },
+      "rights": {
+        "title": "Your rights",
+        "items": {
+          "access": "Access to your data",
+          "correction": "Correction of inaccurate data",
+          "deletion": "Deletion of your data",
+          "objection": "Objection to processing",
+          "portability": "Data portability"
+        }
+      },
+      "contact": {
+        "title": "Contact",
+        "text": "If you have questions about privacy or want to exercise your rights, please contact us via info@andaphilosophy.com."
+      }
+    },
+    "lastUpdated": "Last updated: December 2025"
+  },
+  "cookies": {
+    "metaTitle": "Cookie Policy",
+    "metaDescription": "Which cookies the Anda Foundation website uses, what they are for and how you can manage or refuse them.",
+    "title": "Cookie Policy",
+    "intro": "This website uses cookies to make the site work properly and to understand how it is used.",
+    "sections": {
+      "whatAreCookies": {
+        "title": "What are cookies?",
+        "text": "Cookies are small text files stored on your device when you visit a website. They help the website remember preferences and improve performance."
+      },
+      "whichCookies": {
+        "title": "Which cookies we use",
+        "items": {
+          "necessary": {
+            "title": "Necessary cookies",
+            "text": "Required for basic site functionality, such as language selection and navigation."
+          },
+          "analytics": {
+            "title": "Analytics cookies",
+            "text": "Used to measure traffic and improve the site. These are only placed if we enable analytics."
+          }
+        }
+      },
+      "manage": {
+        "title": "Managing cookies",
+        "text": "You can delete or block cookies through your browser settings. Note that disabling necessary cookies may affect site functionality."
+      }
+    },
+    "lastUpdated": "Last updated: December 2025"
+  },
+  "disclaimer": {
+    "metaTitle": "Disclaimer",
+    "metaDescription": "The terms for using the Anda Foundation website: information for philosophical purposes only, no professional advice, and limits of liability.",
+    "title": "Disclaimer",
+    "intro": "We strive to keep the information on this website accurate and up to date. However, we cannot guarantee completeness or correctness at all times.",
+    "sections": {
+      "noAdvice": {
+        "title": "No professional advice",
+        "text": "Content on this website is offered for informational and philosophical purposes only and does not constitute legal, medical, or financial advice."
+      },
+      "liability": {
+        "title": "Limitation of liability",
+        "text": "Anda Foundation is not liable for any direct or indirect damage resulting from the use of this website or the information provided."
+      },
+      "externalLinks": {
+        "title": "External links",
+        "text": "Our website may contain links to external sites. We are not responsible for their content or privacy practices."
+      },
+      "ip": {
+        "title": "Intellectual property",
+        "text": "Unless stated otherwise, all content on this website is owned by Anda Foundation and may not be reproduced without permission."
+      },
+      "contact": {
+        "title": "Contact",
+        "text": "Questions about this disclaimer can be sent to info@andaphilosophy.com."
+      }
+    },
+    "lastUpdated": "Last updated: December 2025"
+  },
+  "book": {
+    "title": "Anda – The Philosophy of the Eternal Sky",
+    "subtitle": "The core book of Anda",
+    "author": "Merthan Tukus",
+    "year": "2025",
+    "short": "The complete book with the message, the pillars and the oath.",
+    "long": "The core book of Anda with the message, the six pillars and the oath. Read it as a scroll on this page, or download it as a single HTML file that also opens without an internet connection.",
+    "fileName": "anda-core-book.html",
+    "open": "Read the book",
+    "download": "Download as HTML",
+    "close": "Close",
+    "contents": "Contents",
+    "pillars": "The Six Pillars",
+    "oath": "The And",
+    "colophon": "Stichting Anda, andaphilosophy.com"
+  },
+  "steppe": {
+    "title": "The Call of the Steppe",
+    "subtitle": "Chapters I to V",
+    "author": "Merthan Tukus",
+    "year": "2026",
+    "short": "A tale of Koru, a young nomad who asks the sky a question.",
+    "long": "The first five chapters of The Call of the Steppe, a story still being written: Koru, a young nomad of the Yel tribe, leaves the grasslands with a compass that points east and travels on to the Mountain of Silent Bells. Read it as a scroll on this page, or download it as a single HTML file.",
+    "fileName": "the-call-of-the-steppe.html",
+    "open": "Read the book",
+    "englishOnly": "This book is available in English only for now."
+  },
+  "ands": {
+    "metaTitle": "Ands, oaths carved in stone",
+    "metaDescription": "Ands are oaths made under the Eternal Sky, each carved on its own stone. Anda Foundation sets them up one by one.",
+    "title": "Ands",
+    "intro": "Oaths made under the Eternal Sky, each carved on its own stone. Step from one stone to the next.",
+    "previous": "Previous stone",
+    "next": "Next stone",
+    "counter": "{current} of {total}",
+    "stones": "Stones",
+    "goTo": "Go to stone {number}",
+    "untitled": "Oath {ordinal}"
+  },
+  "poems": {
+    "metaTitle": "Poems, short poems and thoughts",
+    "metaDescription": "Short poems and thoughts written under the Eternal Sky. Anda Foundation publishes them in English, Dutch and Turkish.",
+    "title": "Poems",
+    "intro": "Short poems and thoughts, written under the Eternal Sky. Read them one by one, or choose a month or a language.",
+    "eyebrow": "Poems",
+    "previous": "Previous",
+    "next": "Next",
+    "counter": "{current} of {total}",
+    "openIndex": "Show index",
+    "closeIndex": "Hide index",
+    "allMonths": "All months",
+    "allLanguages": "All languages",
+    "language": {
+      "en": "English",
+      "nl": "Dutch",
+      "tr": "Turkish"
+    },
+    "empty": "No poems match this choice.",
+    "untitled": "Poem {ordinal}"
+  },
+  "diepte": {
+    "metaTitle": "Andaism, the complete reference text",
+    "metaDescription": "Andaism is the complete reference text of Anda Foundation: the Philosophy of the Eternal Sky explained part by part, in one long read.",
+    "pageTitle": "Andaism",
+    "subtitle": "The complete reference text",
+    "readingTime": "{minutes} min read",
+    "contents": "Contents",
+    "backToTop": "Back to top",
+    "englishOnly": "This text is available in English only for now.",
+    "seeAlso": "See also",
+    "figures": {
+      "skyyurt": "Concept drawing of a Skyyurt"
+    },
+    "infobox": {
+      "imageAlt": "Anda logo",
+      "type": {
+        "label": "Type",
+        "value": "Modern religious and philosophical tradition"
+      },
+      "founded": {
+        "label": "Founded",
+        "value": "2024, Delft, the Netherlands"
+      },
+      "founder": {
+        "label": "Founder",
+        "value": "Merthan Tukuş"
+      },
+      "origin": {
+        "label": "Cultural background",
+        "value": "Dutch and Turkish"
+      },
+      "centralConcept": {
+        "label": "Central concept",
+        "value": "Mengü, the Eternal Sky"
+      },
+      "texts": {
+        "label": "Texts",
+        "value": "Ands; the main And"
+      },
+      "pillars": {
+        "label": "Pillars",
+        "value": "Six"
+      },
+      "aim": {
+        "label": "Central aim",
+        "value": "Becoming endless"
+      },
+      "followers": {
+        "label": "Followers",
+        "value": "Anda"
+      },
+      "leaders": {
+        "label": "Spiritual leaders",
+        "value": "Onba"
+      },
+      "prayerHouse": {
+        "label": "Prayer house",
+        "value": "Gökevi (Sky House)"
+      },
+      "sacredDay": {
+        "label": "Sacred day",
+        "value": "Friday"
+      },
+      "greeting": {
+        "label": "Greeting",
+        "value": "Esen"
+      },
+      "influences": {
+        "label": "Influences",
+        "value": "Tengrism, Stoicism, Existentialism, Agnosticism, Bushido, Kintsugi, Sufism, Alevism"
+      },
+      "slogan": {
+        "label": "Slogan",
+        "value": "Let's be alive!"
+      }
+    }
+  },
+  "seo": {
+    "siteName": "Anda Foundation",
+    "homeDescription": "Anda Foundation shares the Philosophy of the Eternal Sky: a path of reflection, connection and reverence for nature, open to everyone.",
+    "ogImageAlt": "The Anda logo: a blue line drawing of a yurt on a cream background"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "heading": "We could not find this page",
+    "description": "The address may be mistyped, or the page may have moved. Go back to the home page, or contact us and we will help you find what you are looking for.",
+    "backHome": "Back to home",
+    "contact": "Contact us"
+  }
+}
