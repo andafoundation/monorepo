@@ -26,7 +26,7 @@ Open http://localhost:3008. The site needs no secret, database or backend to run
 
 ## Deployment
 
-The site runs as the Cloudflare Worker `anda-website` in the foundation's Cloudflare account. Every push to `main` that touches `projects/website/` or the workflow runs the `check` job and then the `deploy` job of `website-ci.yml`, which builds the Worker with OpenNext and deploys it with wrangler (`bun run cf:deploy`). Pull requests, forks included, run only `check` and never see a Cloudflare credential.
+The site runs as the Cloudflare Worker `anda-website` in the foundation's Cloudflare account. Every push to `main` that touches `projects/website/` or the workflow runs the `check` job and then the `deploy` job of `website-ci.yml`, which builds the Worker with OpenNext and deploys it with wrangler (`bun run cf:deploy`). The deploy also binds the custom domain `andaphilosophy.com` to the Worker (`routes` in `projects/website/wrangler.jsonc`), which requires the zone to be Active in the foundation's account. Pull requests, forks included, run only `check` and never see a Cloudflare credential.
 
 The `deploy` job runs in the GitHub environment `production` of this repository, which only `main` may use. The owner sets these values there:
 
