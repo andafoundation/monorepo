@@ -54,7 +54,7 @@ jobs:
       # The download store only, never node_modules; saved on main so every branch can read it.
       - name: Restore Bun dependencies
         id: bun-cache
-        uses: actions/cache/restore@caa296126883cff596d87d8935842f9db880ef25 # v5.1.0
+        uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
         with:
           path: ~/.bun/install/cache
           key: ${{ runner.os }}-buninstall-projects/website-${{ hashFiles('projects/website/bun.lock') }}
@@ -107,7 +107,7 @@ jobs:
 
       # The check job saves this entry on main; the deploy job only reads it.
       - name: Restore Bun dependencies
-        uses: actions/cache/restore@caa296126883cff596d87d8935842f9db880ef25 # v5.1.0
+        uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
         with:
           path: ~/.bun/install/cache
           key: ${{ runner.os }}-buninstall-projects/website-${{ hashFiles('projects/website/bun.lock') }}
