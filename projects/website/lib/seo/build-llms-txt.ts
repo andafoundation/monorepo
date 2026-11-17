@@ -69,8 +69,13 @@ function messageText(messages: LlmsMessages, key: string): string {
   return value;
 }
 
+/**
+ * Escapes a title for Markdown link text. The backslash is escaped as well as
+ * the brackets: a title ending in a backslash would otherwise escape the
+ * closing bracket and break the link.
+ */
 function escapeLinkText(text: string): string {
-  return text.replace(/([[\]])/g, '\\$1');
+  return text.replace(/([\\[\]])/g, '\\$1');
 }
 
 function linkLine(title: string, url: string, description = ''): string {
