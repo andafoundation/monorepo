@@ -7,6 +7,10 @@
   // per-version preview URLs would publish an indexable copy of every page.
   "workers_dev": false,
   "preview_urls": false,
+  // Each deploy binds the apex to this Worker and creates its DNS record and
+  // certificate. The zone must be Active in the deploying account, or the
+  // deploy fails.
+  "routes": [{ "pattern": "andaphilosophy.com", "custom_domain": true }],
   "compatibility_flags": [
     // Node.js API surface used by Next's server runtime.
     "nodejs_compat",
