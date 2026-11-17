@@ -64,6 +64,13 @@ describe('buildLlmsTxt', () => {
     expect(llms).toContain(`(${SITE_URL}/sitemap.xml)`);
   });
 
+  test('escapes every bracket and backslash in a link title', () => {
+    const [first] = ands;
+    const titled = { ...first, title: 'A [b] c [d] e\\' };
+    const text = buildLlmsTxt({ messages, ands: [titled] });
+    expect(text).toContain(`- [A \\[b\\] c \\[d\\] e\\\\](${SITE_URL}${andCanonicalPath(titled)})`);
+  });
+
   test('throws when a message key is missing instead of publishing a half file', () => {
     expect(() => buildLlmsTxt({ messages: {}, ands })).toThrow('llms.txt');
   });
