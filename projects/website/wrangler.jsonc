@@ -20,7 +20,12 @@
     // is skipped entirely when assets are served first -- producing
     // intermittent 404s. Route every request through the Worker; it still
     // serves assets, just via the asset resolver.
-    "run_worker_first": true
+    "run_worker_first": true,
+    // Next.js serves a public file only at its exact path. Rewriting to a
+    // trailing slash or an index.html, or a fallback page, would let a request
+    // reach an asset without passing through the middleware.
+    "html_handling": "none",
+    "not_found_handling": "none"
   },
   "services": [
     {
