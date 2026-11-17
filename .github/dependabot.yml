@@ -5,6 +5,12 @@ updates:
     schedule:
       interval: weekly
     open-pull-requests-limit: 5
+    ignore:
+      # @types/node follows the Node major the site builds and runs on: Node 22 in
+      # website-ci.yml. A newer major would type APIs that Node 22 does not have, so
+      # only minor and patch updates are taken until the CI Node version moves.
+      - dependency-name: '@types/node'
+        update-types: ['version-update:semver-major']
 
   - package-ecosystem: github-actions
     directory: /
