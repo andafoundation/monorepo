@@ -25,7 +25,7 @@
     "framer-motion": "^14.14.0",
     "lucide-react": "^0.553.0",
     "next": "^16.4.6",
-    "next-intl": "^4.15.1",
+    "next-intl": "^4.15.3",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
     "simplex-noise": "^4.0.3",
